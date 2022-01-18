@@ -1,0 +1,98 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=Para diminuir as dores nas pontas dos dedos, é importante:
+1-1	0-4	Para	
+1-2	5-13	diminuir	
+1-3	14-16	as	
+1-4	17-22	dores	
+1-5	23-26	nas	
+1-6	27-33	pontas	
+1-7	34-37	dos	
+1-8	38-43	dedos	
+1-9	43-44	,	
+1-10	45-46	é	
+1-11	47-57	importante	
+1-12	57-58	:	
+
+#Text=Lavar bem as mãos com água e sabão e enxugar com toalha limpa ou algodão seco.
+2-1	61-66	Lavar	
+2-2	67-70	bem	
+2-3	71-73	as	
+2-4	74-78	mãos	
+2-5	79-82	com	
+2-6	83-87	água	
+2-7	88-89	e	
+2-8	90-95	sabão	
+2-9	96-97	e	
+2-10	98-105	enxugar	
+2-11	106-109	com	
+2-12	110-116	toalha	
+2-13	117-122	limpa	
+2-14	123-125	ou	
+2-15	126-133	algodão	
+2-16	134-138	seco	
+2-17	138-139	.	
+
+#Text=Deixar a mão pendente (com os dedos apontando para baixo), para que saia uma gota de sangue maior.
+3-1	142-148	Deixar	
+3-2	149-150	a	
+3-3	151-154	mão	
+3-4	155-163	pendente	
+3-5	164-165	(	
+3-6	165-168	com	
+3-7	169-171	os	
+3-8	172-177	dedos	
+3-9	178-187	apontando	
+3-10	188-192	para	
+3-11	193-198	baixo	
+3-12	198-199	)	
+3-13	199-200	,	
+3-14	201-205	para	
+3-15	206-209	que	
+3-16	210-214	saia	
+3-17	215-218	uma	
+3-18	219-223	gota	
+3-19	224-226	de	
+3-20	227-233	sangue	
+3-21	234-239	maior	
+3-22	239-240	.	
+
+#Text=Sempre variar o dedo que será picado.
+4-1	243-249	Sempre	
+4-2	250-256	variar	
+4-3	257-258	o	
+4-4	259-263	dedo	
+4-5	264-267	que	
+4-6	268-272	será	
+4-7	273-279	picado	
+4-8	279-280	.	
+
+#Text=Por fim, é Importante lembrar que os picadores são de uso individual, não podem ser usados em diferentes pessoas, mesmo trocando as agulhas!
+5-1	282-285	Por	
+5-2	286-289	fim	
+5-3	289-290	,	
+5-4	291-292	é	
+5-5	293-303	Importante	
+5-6	304-311	lembrar	
+5-7	312-315	que	
+5-8	316-318	os	
+5-9	319-328	picadores	
+5-10	329-332	são	
+5-11	333-335	de	
+5-12	336-339	uso	
+5-13	340-350	individual	
+5-14	350-351	,	
+5-15	352-355	não	
+5-16	356-361	podem	
+5-17	362-365	ser	
+5-18	366-372	usados	
+5-19	373-375	em	
+5-20	376-386	diferentes	
+5-21	387-394	pessoas	
+5-22	394-395	,	
+5-23	396-401	mesmo	
+5-24	402-410	trocando	
+5-25	411-413	as	
+5-26	414-421	agulhas	
+5-27	421-422	!	

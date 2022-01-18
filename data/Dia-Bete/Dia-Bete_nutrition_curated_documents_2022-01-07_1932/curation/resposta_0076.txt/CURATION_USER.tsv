@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=A farinha de grão-de-bico têm carboidratos, mas por ser de uma leguminosa, ela  é rica em proteínas. Com isso, ela pode ser usada por diabéticos.  Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-1	A	_	_	_	
+1-2	2-9	farinha	Food[1]	_	_	
+1-3	10-12	de	Food[1]	_	_	
+1-4	13-25	grão-de-bico	Food[1]	_	_	
+1-5	26-29	têm	_	_	_	
+1-6	30-42	carboidratos	Food	has	1-2[1_0]	
+1-7	42-43	,	_	_	_	
+1-8	44-47	mas	_	_	_	
+1-9	48-51	por	_	_	_	
+1-10	52-55	ser	_	_	_	
+1-11	56-58	de	_	_	_	
+1-12	59-62	uma	_	_	_	
+1-13	63-73	leguminosa	_	_	_	
+1-14	73-74	,	_	_	_	
+1-15	75-78	ela	_	_	_	
+1-16	80-81	é	_	_	_	
+1-17	82-86	rica	_	_	_	
+1-18	87-89	em	_	_	_	
+1-19	90-99	proteínas	Food	has	1-2[1_0]	
+1-20	99-100	.	_	_	_	
+1-21	101-104	Com	_	_	_	
+1-22	105-109	isso	_	_	_	
+1-23	109-110	,	_	_	_	
+1-24	111-114	ela	_	_	_	
+1-25	115-119	pode	_	_	_	
+1-26	120-123	ser	_	_	_	
+1-27	124-129	usada	_	_	_	
+1-28	130-133	por	_	_	_	
+1-29	134-144	diabéticos	_	_	_	
+1-30	144-145	.	_	_	_	
+1-31	147-151	Para	_	_	_	
+1-32	152-155	uma	_	_	_	
+1-33	156-166	orientação	_	_	_	
+1-34	167-171	mais	_	_	_	
+1-35	172-182	específica	_	_	_	
+1-36	183-184	o	_	_	_	
+1-37	185-190	ideal	_	_	_	
+1-38	191-192	é	_	_	_	
+1-39	193-196	que	_	_	_	
+1-40	197-201	você	_	_	_	
+1-41	202-204	se	_	_	_	
+1-42	205-213	consulte	_	_	_	
+1-43	214-217	com	_	_	_	
+1-44	218-220	um	_	_	_	
+1-45	221-234	nutricionista	_	_	_	
+1-46	235-236	(	_	_	_	
+1-47	236-239	que	_	_	_	
+1-48	240-245	estão	_	_	_	
+1-49	246-257	disponíveis	_	_	_	
+1-50	258-271	gratuitamente	_	_	_	
+1-51	272-274	no	_	_	_	
+1-52	275-278	SUS	_	_	_	
+1-53	278-279	)	_	_	_	
+1-54	280-284	pois	_	_	_	
+1-55	285-288	ele	_	_	_	
+1-56	289-295	poderá	_	_	_	
+1-57	296-302	montar	_	_	_	
+1-58	303-306	uma	_	_	_	
+1-59	307-312	dieta	_	_	_	
+1-60	313-318	ideal	_	_	_	
+1-61	319-323	para	_	_	_	
+1-62	324-326	as	_	_	_	
+1-63	327-331	suas	_	_	_	
+1-64	332-344	necessidades	_	_	_	
+1-65	344-345	.	_	_	_	

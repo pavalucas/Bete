@@ -1,0 +1,31 @@
+ENTITIES = ['O',
+ 'B-Complication',
+ 'B-DiabetesType',
+ 'B-Dose',
+ 'B-Duration',
+ 'B-Food',
+ 'B-GlucoseValue',
+ 'B-Insulin',
+ 'B-Medication',
+ 'B-NonMedicalTreatment',
+ 'B-Set',
+ 'B-Symptom',
+ 'B-Test',
+ 'B-Time',
+ 'I-Complication',
+ 'I-DiabetesType',
+ 'I-Dose',
+ 'I-Duration',
+ 'I-Food',
+ 'I-GlucoseValue',
+ 'I-Insulin',
+ 'I-Medication',
+ 'I-NonMedicalTreatment',
+ 'I-Set',
+ 'I-Symptom',
+ 'I-Test',
+ 'I-Time']
+
+# construct map label to id and id to label
+tag2id = {tag: i for i, tag in enumerate(ENTITIES)}
+id2tag = {i: tag for i, tag in enumerate(ENTITIES)}

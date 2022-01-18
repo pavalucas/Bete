@@ -1,0 +1,29 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+
+
+#Text=Se você estiver bem controlado do seu diabetes, então o risco de fazer uma tatuagem são os mesmos de qualquer outra pessoa.
+1-1	0-2	Se	_	
+1-2	3-7	você	_	
+1-3	8-15	estiver	_	
+1-4	16-19	bem	_	
+1-5	20-30	controlado	_	
+1-6	31-33	do	_	
+1-7	34-37	seu	_	
+1-8	38-46	diabetes	Complication	
+1-9	46-47	,	_	
+1-10	48-53	então	_	
+1-11	54-55	o	_	
+1-12	56-61	risco	_	
+1-13	62-64	de	_	
+1-14	65-70	fazer	_	
+1-15	71-74	uma	_	
+1-16	75-83	tatuagem	_	
+1-17	84-87	são	_	
+1-18	88-90	os	_	
+1-19	91-97	mesmos	_	
+1-20	98-100	de	_	
+1-21	101-109	qualquer	_	
+1-22	110-115	outra	_	
+1-23	116-122	pessoa	_	
+1-24	122-123	.	_	

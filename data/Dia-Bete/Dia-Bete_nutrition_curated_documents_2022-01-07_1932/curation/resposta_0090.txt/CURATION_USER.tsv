@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Mito. A batata doce é um alimento fonte de carboidrato, por isso, prefira consumi-la junto com outros alimentos e nas principais refeições, bem como, moderando a quantidade. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-4	Mito	_	_	_	
+1-2	4-5	.	_	_	_	
+1-3	6-7	A	_	_	_	
+1-4	8-14	batata	Food[1]	_	_	
+1-5	15-19	doce	Food[1]	_	_	
+1-6	20-21	é	_	_	_	
+1-7	22-24	um	_	_	_	
+1-8	25-33	alimento	_	_	_	
+1-9	34-39	fonte	_	_	_	
+1-10	40-42	de	_	_	_	
+1-11	43-54	carboidrato	Food	has	1-4[1_0]	
+1-12	54-55	,	_	_	_	
+1-13	56-59	por	_	_	_	
+1-14	60-64	isso	_	_	_	
+1-15	64-65	,	_	_	_	
+1-16	66-73	prefira	_	_	_	
+1-17	74-84	consumi-la	_	_	_	
+1-18	85-90	junto	_	_	_	
+1-19	91-94	com	_	_	_	
+1-20	95-101	outros	_	_	_	
+1-21	102-111	alimentos	_	_	_	
+1-22	112-113	e	_	_	_	
+1-23	114-117	nas	_	_	_	
+1-24	118-128	principais	_	_	_	
+1-25	129-138	refeições	_	_	_	
+1-26	138-139	,	_	_	_	
+1-27	140-143	bem	_	_	_	
+1-28	144-148	como	_	_	_	
+1-29	148-149	,	_	_	_	
+1-30	150-159	moderando	_	_	_	
+1-31	160-161	a	_	_	_	
+1-32	162-172	quantidade	_	_	_	
+1-33	172-173	.	_	_	_	
+1-34	174-178	Para	_	_	_	
+1-35	179-182	uma	_	_	_	
+1-36	183-193	orientação	_	_	_	
+1-37	194-198	mais	_	_	_	
+1-38	199-209	específica	_	_	_	
+1-39	210-211	o	_	_	_	
+1-40	212-217	ideal	_	_	_	
+1-41	218-219	é	_	_	_	
+1-42	220-223	que	_	_	_	
+1-43	224-228	você	_	_	_	
+1-44	229-231	se	_	_	_	
+1-45	232-240	consulte	_	_	_	
+1-46	241-244	com	_	_	_	
+1-47	245-247	um	_	_	_	
+1-48	248-261	nutricionista	_	_	_	
+1-49	262-263	(	_	_	_	
+1-50	263-266	que	_	_	_	
+1-51	267-272	estão	_	_	_	
+1-52	273-284	disponíveis	_	_	_	
+1-53	285-298	gratuitamente	_	_	_	
+1-54	299-301	no	_	_	_	
+1-55	302-305	SUS	_	_	_	
+1-56	305-306	)	_	_	_	
+1-57	307-311	pois	_	_	_	
+1-58	312-315	ele	_	_	_	
+1-59	316-322	poderá	_	_	_	
+1-60	323-329	montar	_	_	_	
+1-61	330-333	uma	_	_	_	
+1-62	334-339	dieta	_	_	_	
+1-63	340-345	ideal	_	_	_	
+1-64	346-350	para	_	_	_	
+1-65	351-353	as	_	_	_	
+1-66	354-358	suas	_	_	_	
+1-67	359-371	necessidades	_	_	_	
+1-68	371-372	.	_	_	_	

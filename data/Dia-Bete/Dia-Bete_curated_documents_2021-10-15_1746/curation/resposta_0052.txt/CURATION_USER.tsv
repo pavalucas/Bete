@@ -1,0 +1,42 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+
+
+#Text=As chamadas medidas naturais são as mudanças que fazemos no nosso estilo de vida para viver de forma mais saudável. Essas medidas incluem ter uma alimentação balanceada, praticar exercícios físicos regularmente e perder peso.
+1-1	0-2	As	_	
+1-2	3-11	chamadas	_	
+1-3	12-19	medidas	_	
+1-4	20-28	naturais	_	
+1-5	29-32	são	_	
+1-6	33-35	as	_	
+1-7	36-44	mudanças	_	
+1-8	45-48	que	_	
+1-9	49-56	fazemos	_	
+1-10	57-59	no	_	
+1-11	60-65	nosso	_	
+1-12	66-72	estilo	_	
+1-13	73-75	de	_	
+1-14	76-80	vida	_	
+1-15	81-85	para	_	
+1-16	86-91	viver	_	
+1-17	92-94	de	_	
+1-18	95-100	forma	_	
+1-19	101-105	mais	_	
+1-20	106-114	saudável	_	
+1-21	114-115	.	_	
+1-22	116-121	Essas	_	
+1-23	122-129	medidas	_	
+1-24	130-137	incluem	_	
+1-25	138-141	ter	_	
+1-26	142-145	uma	_	
+1-27	146-157	alimentação	NonMedicalTreatment[1]	
+1-28	158-168	balanceada	NonMedicalTreatment[1]	
+1-29	168-169	,	_	
+1-30	170-178	praticar	_	
+1-31	179-189	exercícios	NonMedicalTreatment[2]	
+1-32	190-197	físicos	NonMedicalTreatment[2]	
+1-33	198-210	regularmente	_	
+1-34	211-212	e	_	
+1-35	213-219	perder	NonMedicalTreatment[3]	
+1-36	220-224	peso	NonMedicalTreatment[3]	
+1-37	224-225	.	_	

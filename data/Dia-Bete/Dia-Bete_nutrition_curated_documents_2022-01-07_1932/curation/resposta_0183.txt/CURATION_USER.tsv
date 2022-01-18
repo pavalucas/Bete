@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=O bacon é um alimento rico em gordura saturada e pouco nutritivo, por isso, o seu consumo deve ser feito eventualmente. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-1	O	_	_	_	
+1-2	2-7	bacon	Food	_	_	
+1-3	8-9	é	_	_	_	
+1-4	10-12	um	_	_	_	
+1-5	13-21	alimento	_	_	_	
+1-6	22-26	rico	_	_	_	
+1-7	27-29	em	_	_	_	
+1-8	30-37	gordura	Food[1]	has	1-2[0_1]	
+1-9	38-46	saturada	Food[1]	_	_	
+1-10	47-48	e	_	_	_	
+1-11	49-54	pouco	_	_	_	
+1-12	55-64	nutritivo	_	_	_	
+1-13	64-65	,	_	_	_	
+1-14	66-69	por	_	_	_	
+1-15	70-74	isso	_	_	_	
+1-16	74-75	,	_	_	_	
+1-17	76-77	o	_	_	_	
+1-18	78-81	seu	_	_	_	
+1-19	82-89	consumo	_	_	_	
+1-20	90-94	deve	_	_	_	
+1-21	95-98	ser	_	_	_	
+1-22	99-104	feito	_	_	_	
+1-23	105-118	eventualmente	_	_	_	
+1-24	118-119	.	_	_	_	
+1-25	120-124	Para	_	_	_	
+1-26	125-128	uma	_	_	_	
+1-27	129-139	orientação	_	_	_	
+1-28	140-144	mais	_	_	_	
+1-29	145-155	específica	_	_	_	
+1-30	156-157	o	_	_	_	
+1-31	158-163	ideal	_	_	_	
+1-32	164-165	é	_	_	_	
+1-33	166-169	que	_	_	_	
+1-34	170-174	você	_	_	_	
+1-35	175-177	se	_	_	_	
+1-36	178-186	consulte	_	_	_	
+1-37	187-190	com	_	_	_	
+1-38	191-193	um	_	_	_	
+1-39	194-207	nutricionista	_	_	_	
+1-40	208-209	(	_	_	_	
+1-41	209-212	que	_	_	_	
+1-42	213-218	estão	_	_	_	
+1-43	219-230	disponíveis	_	_	_	
+1-44	231-244	gratuitamente	_	_	_	
+1-45	245-247	no	_	_	_	
+1-46	248-251	SUS	_	_	_	
+1-47	251-252	)	_	_	_	
+1-48	253-257	pois	_	_	_	
+1-49	258-261	ele	_	_	_	
+1-50	262-268	poderá	_	_	_	
+1-51	269-275	montar	_	_	_	
+1-52	276-279	uma	_	_	_	
+1-53	280-285	dieta	_	_	_	
+1-54	286-291	ideal	_	_	_	
+1-55	292-296	para	_	_	_	
+1-56	297-299	as	_	_	_	
+1-57	300-304	suas	_	_	_	
+1-58	305-317	necessidades	_	_	_	
+1-59	317-318	.	_	_	_	

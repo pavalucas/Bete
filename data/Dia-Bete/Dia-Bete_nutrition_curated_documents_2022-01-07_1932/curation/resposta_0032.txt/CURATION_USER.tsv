@@ -1,0 +1,54 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+
+
+#Text=O papel do profissional nutricionista é fundamental para o tratamento individualizado da diabetes. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-1	O	_	
+1-2	2-7	papel	_	
+1-3	8-10	do	_	
+1-4	11-23	profissional	_	
+1-5	24-37	nutricionista	_	
+1-6	38-39	é	_	
+1-7	40-51	fundamental	_	
+1-8	52-56	para	_	
+1-9	57-58	o	_	
+1-10	59-69	tratamento	_	
+1-11	70-85	individualizado	_	
+1-12	86-88	da	_	
+1-13	89-97	diabetes	Complication	
+1-14	97-98	.	_	
+1-15	99-103	Para	_	
+1-16	104-107	uma	_	
+1-17	108-118	orientação	_	
+1-18	119-123	mais	_	
+1-19	124-134	específica	_	
+1-20	135-136	o	_	
+1-21	137-142	ideal	_	
+1-22	143-144	é	_	
+1-23	145-148	que	_	
+1-24	149-153	você	_	
+1-25	154-156	se	_	
+1-26	157-165	consulte	_	
+1-27	166-169	com	_	
+1-28	170-172	um	_	
+1-29	173-186	nutricionista	_	
+1-30	187-188	(	_	
+1-31	188-191	que	_	
+1-32	192-197	estão	_	
+1-33	198-209	disponíveis	_	
+1-34	210-223	gratuitamente	_	
+1-35	224-226	no	_	
+1-36	227-230	SUS	_	
+1-37	230-231	)	_	
+1-38	232-236	pois	_	
+1-39	237-240	ele	_	
+1-40	241-247	poderá	_	
+1-41	248-254	montar	_	
+1-42	255-258	uma	_	
+1-43	259-264	dieta	_	
+1-44	265-270	ideal	_	
+1-45	271-275	para	_	
+1-46	276-278	as	_	
+1-47	279-283	suas	_	
+1-48	284-296	necessidades	_	
+1-49	296-297	.	_	

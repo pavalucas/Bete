@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Esse valor de hemoglobina glicada está dentro da faixa considerada como diabetes. No entanto, é importante lembrar que esse exame deve ser avaliado por um médico, que fará uma análise não só do exame, mas de você como um todo. O médico também poderá solicitar outros exames para confirmar se você é ou não diabético.
+1-1	0-4	Esse	_	_	_	
+1-2	5-10	valor	_	_	_	
+1-3	11-13	de	_	_	_	
+1-4	14-25	hemoglobina	Test[1]	_	_	
+1-5	26-33	glicada	Test[1]	_	_	
+1-6	34-38	está	_	_	_	
+1-7	39-45	dentro	_	_	_	
+1-8	46-48	da	_	_	_	
+1-9	49-54	faixa	_	_	_	
+1-10	55-66	considerada	_	_	_	
+1-11	67-71	como	_	_	_	
+1-12	72-80	diabetes	Complication	diagnoses	1-4[1_0]	
+1-13	80-81	.	_	_	_	
+1-14	82-84	No	_	_	_	
+1-15	85-92	entanto	_	_	_	
+1-16	92-93	,	_	_	_	
+1-17	94-95	é	_	_	_	
+1-18	96-106	importante	_	_	_	
+1-19	107-114	lembrar	_	_	_	
+1-20	115-118	que	_	_	_	
+1-21	119-123	esse	_	_	_	
+1-22	124-129	exame	_	_	_	
+1-23	130-134	deve	_	_	_	
+1-24	135-138	ser	_	_	_	
+1-25	139-147	avaliado	_	_	_	
+1-26	148-151	por	_	_	_	
+1-27	152-154	um	_	_	_	
+1-28	155-161	médico	_	_	_	
+1-29	161-162	,	_	_	_	
+1-30	163-166	que	_	_	_	
+1-31	167-171	fará	_	_	_	
+1-32	172-175	uma	_	_	_	
+1-33	176-183	análise	_	_	_	
+1-34	184-187	não	_	_	_	
+1-35	188-190	só	_	_	_	
+1-36	191-193	do	_	_	_	
+1-37	194-199	exame	_	_	_	
+1-38	199-200	,	_	_	_	
+1-39	201-204	mas	_	_	_	
+1-40	205-207	de	_	_	_	
+1-41	208-212	você	_	_	_	
+1-42	213-217	como	_	_	_	
+1-43	218-220	um	_	_	_	
+1-44	221-225	todo	_	_	_	
+1-45	225-226	.	_	_	_	
+1-46	227-228	O	_	_	_	
+1-47	229-235	médico	_	_	_	
+1-48	236-242	também	_	_	_	
+1-49	243-249	poderá	_	_	_	
+1-50	250-259	solicitar	_	_	_	
+1-51	260-266	outros	_	_	_	
+1-52	267-273	exames	_	_	_	
+1-53	274-278	para	_	_	_	
+1-54	279-288	confirmar	_	_	_	
+1-55	289-291	se	_	_	_	
+1-56	292-296	você	_	_	_	
+1-57	297-298	é	_	_	_	
+1-58	299-301	ou	_	_	_	
+1-59	302-305	não	_	_	_	
+1-60	306-315	diabético	_	_	_	
+1-61	315-316	.	_	_	_	

@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Pode sim, o arroz parboilizado possui aproximadamente a mesma quantidade de carboidrato que o arroz branco, por isso, consuma de forma moderada e seguindo a recomendação passada para você. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-4	Pode	_	_	_	
+1-2	5-8	sim	_	_	_	
+1-3	8-9	,	_	_	_	
+1-4	10-11	o	_	_	_	
+1-5	12-17	arroz	Food[1]	_	_	
+1-6	18-30	parboilizado	Food[1]	_	_	
+1-7	31-37	possui	_	_	_	
+1-8	38-53	aproximadamente	_	_	_	
+1-9	54-55	a	_	_	_	
+1-10	56-61	mesma	_	_	_	
+1-11	62-72	quantidade	_	_	_	
+1-12	73-75	de	_	_	_	
+1-13	76-87	carboidrato	Food	has|has	1-5[1_0]|1-16[2_0]	
+1-14	88-91	que	_	_	_	
+1-15	92-93	o	_	_	_	
+1-16	94-99	arroz	Food[2]	_	_	
+1-17	100-106	branco	Food[2]	_	_	
+1-18	106-107	,	_	_	_	
+1-19	108-111	por	_	_	_	
+1-20	112-116	isso	_	_	_	
+1-21	116-117	,	_	_	_	
+1-22	118-125	consuma	_	_	_	
+1-23	126-128	de	_	_	_	
+1-24	129-134	forma	_	_	_	
+1-25	135-143	moderada	_	_	_	
+1-26	144-145	e	_	_	_	
+1-27	146-154	seguindo	_	_	_	
+1-28	155-156	a	_	_	_	
+1-29	157-169	recomendação	_	_	_	
+1-30	170-177	passada	_	_	_	
+1-31	178-182	para	_	_	_	
+1-32	183-187	você	_	_	_	
+1-33	187-188	.	_	_	_	
+1-34	189-193	Para	_	_	_	
+1-35	194-197	uma	_	_	_	
+1-36	198-208	orientação	_	_	_	
+1-37	209-213	mais	_	_	_	
+1-38	214-224	específica	_	_	_	
+1-39	225-226	o	_	_	_	
+1-40	227-232	ideal	_	_	_	
+1-41	233-234	é	_	_	_	
+1-42	235-238	que	_	_	_	
+1-43	239-243	você	_	_	_	
+1-44	244-246	se	_	_	_	
+1-45	247-255	consulte	_	_	_	
+1-46	256-259	com	_	_	_	
+1-47	260-262	um	_	_	_	
+1-48	263-276	nutricionista	_	_	_	
+1-49	277-278	(	_	_	_	
+1-50	278-281	que	_	_	_	
+1-51	282-287	estão	_	_	_	
+1-52	288-299	disponíveis	_	_	_	
+1-53	300-313	gratuitamente	_	_	_	
+1-54	314-316	no	_	_	_	
+1-55	317-320	SUS	_	_	_	
+1-56	320-321	)	_	_	_	
+1-57	322-326	pois	_	_	_	
+1-58	327-330	ele	_	_	_	
+1-59	331-337	poderá	_	_	_	
+1-60	338-344	montar	_	_	_	
+1-61	345-348	uma	_	_	_	
+1-62	349-354	dieta	_	_	_	
+1-63	355-360	ideal	_	_	_	
+1-64	361-365	para	_	_	_	
+1-65	366-368	as	_	_	_	
+1-66	369-373	suas	_	_	_	
+1-67	374-386	necessidades	_	_	_	
+1-68	386-387	.	_	_	_	

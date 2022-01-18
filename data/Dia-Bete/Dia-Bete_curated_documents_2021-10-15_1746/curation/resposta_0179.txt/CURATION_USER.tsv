@@ -1,0 +1,22 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+
+
+#Text=Esses medicamentos agem de forma diferente no corpo, mas ambos servem para controlar o diabetes.
+1-1	0-5	Esses	_	
+1-2	6-18	medicamentos	_	
+1-3	19-23	agem	_	
+1-4	24-26	de	_	
+1-5	27-32	forma	_	
+1-6	33-42	diferente	_	
+1-7	43-45	no	_	
+1-8	46-51	corpo	_	
+1-9	51-52	,	_	
+1-10	53-56	mas	_	
+1-11	57-62	ambos	_	
+1-12	63-69	servem	_	
+1-13	70-74	para	_	
+1-14	75-84	controlar	_	
+1-15	85-86	o	_	
+1-16	87-95	diabetes	Complication	
+1-17	95-96	.	_	

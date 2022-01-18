@@ -1,0 +1,63 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Podem sim, os temperos naturais são fontes de vitaminas, minerais e compostos bioativos que desempenham funções benéficas no organismo. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-5	Podem	_	_	_	
+1-2	6-9	sim	_	_	_	
+1-3	9-10	,	_	_	_	
+1-4	11-13	os	_	_	_	
+1-5	14-22	temperos	Food[1]	_	_	
+1-6	23-31	naturais	Food[1]	_	_	
+1-7	32-35	são	_	_	_	
+1-8	36-42	fontes	_	_	_	
+1-9	43-45	de	_	_	_	
+1-10	46-55	vitaminas	Food	has	1-5[1_0]	
+1-11	55-56	,	_	_	_	
+1-12	57-65	minerais	Food	has	1-5[1_0]	
+1-13	66-67	e	_	_	_	
+1-14	68-77	compostos	Food[2]	has	1-5[1_2]	
+1-15	78-87	bioativos	Food[2]	_	_	
+1-16	88-91	que	_	_	_	
+1-17	92-103	desempenham	_	_	_	
+1-18	104-111	funções	_	_	_	
+1-19	112-121	benéficas	_	_	_	
+1-20	122-124	no	_	_	_	
+1-21	125-134	organismo	_	_	_	
+1-22	134-135	.	_	_	_	
+1-23	136-140	Para	_	_	_	
+1-24	141-144	uma	_	_	_	
+1-25	145-155	orientação	_	_	_	
+1-26	156-160	mais	_	_	_	
+1-27	161-171	específica	_	_	_	
+1-28	172-173	o	_	_	_	
+1-29	174-179	ideal	_	_	_	
+1-30	180-181	é	_	_	_	
+1-31	182-185	que	_	_	_	
+1-32	186-190	você	_	_	_	
+1-33	191-193	se	_	_	_	
+1-34	194-202	consulte	_	_	_	
+1-35	203-206	com	_	_	_	
+1-36	207-209	um	_	_	_	
+1-37	210-223	nutricionista	_	_	_	
+1-38	224-225	(	_	_	_	
+1-39	225-228	que	_	_	_	
+1-40	229-234	estão	_	_	_	
+1-41	235-246	disponíveis	_	_	_	
+1-42	247-260	gratuitamente	_	_	_	
+1-43	261-263	no	_	_	_	
+1-44	264-267	SUS	_	_	_	
+1-45	267-268	)	_	_	_	
+1-46	269-273	pois	_	_	_	
+1-47	274-277	ele	_	_	_	
+1-48	278-284	poderá	_	_	_	
+1-49	285-291	montar	_	_	_	
+1-50	292-295	uma	_	_	_	
+1-51	296-301	dieta	_	_	_	
+1-52	302-307	ideal	_	_	_	
+1-53	308-312	para	_	_	_	
+1-54	313-315	as	_	_	_	
+1-55	316-320	suas	_	_	_	
+1-56	321-333	necessidades	_	_	_	
+1-57	333-334	.	_	_	_	

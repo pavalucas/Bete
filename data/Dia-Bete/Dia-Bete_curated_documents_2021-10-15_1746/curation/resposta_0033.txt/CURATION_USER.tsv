@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Existem tratamentos para a retinopatia diabética e suas complicações, sendo que, quanto mais cedo o problema for descoberto, maiores as chances de sucesso. A melhor forma de se prevenir contra a retinopatia é mantendo os níveis de açúcar no sangue e a pressão sanguínea sob controle.
+1-1	0-7	Existem	_	_	_	
+1-2	8-19	tratamentos	_	_	_	
+1-3	20-24	para	_	_	_	
+1-4	25-26	a	_	_	_	
+1-5	27-38	retinopatia	Complication[1]	prevents	1-38[2_1]	
+1-6	39-48	diabética	Complication[1]	_	_	
+1-7	49-50	e	_	_	_	
+1-8	51-55	suas	_	_	_	
+1-9	56-68	complicações	_	_	_	
+1-10	68-69	,	_	_	_	
+1-11	70-75	sendo	_	_	_	
+1-12	76-79	que	_	_	_	
+1-13	79-80	,	_	_	_	
+1-14	81-87	quanto	_	_	_	
+1-15	88-92	mais	_	_	_	
+1-16	93-97	cedo	_	_	_	
+1-17	98-99	o	_	_	_	
+1-18	100-108	problema	_	_	_	
+1-19	109-112	for	_	_	_	
+1-20	113-123	descoberto	_	_	_	
+1-21	123-124	,	_	_	_	
+1-22	125-132	maiores	_	_	_	
+1-23	133-135	as	_	_	_	
+1-24	136-143	chances	_	_	_	
+1-25	144-146	de	_	_	_	
+1-26	147-154	sucesso	_	_	_	
+1-27	154-155	.	_	_	_	
+1-28	156-157	A	_	_	_	
+1-29	158-164	melhor	_	_	_	
+1-30	165-170	forma	_	_	_	
+1-31	171-173	de	_	_	_	
+1-32	174-176	se	_	_	_	
+1-33	177-185	prevenir	_	_	_	
+1-34	186-192	contra	_	_	_	
+1-35	193-194	a	_	_	_	
+1-36	195-206	retinopatia	_	_	_	
+1-37	207-208	é	_	_	_	
+1-38	209-217	mantendo	NonMedicalTreatment[2]	_	_	
+1-39	218-220	os	NonMedicalTreatment[2]	_	_	
+1-40	221-227	níveis	NonMedicalTreatment[2]|GlucoseValue[3]	_	_	
+1-41	228-230	de	NonMedicalTreatment[2]|GlucoseValue[3]	_	_	
+1-42	231-237	açúcar	NonMedicalTreatment[2]|GlucoseValue[3]	_	_	
+1-43	238-240	no	NonMedicalTreatment[2]|GlucoseValue[3]	_	_	
+1-44	241-247	sangue	NonMedicalTreatment[2]|GlucoseValue[3]	_	_	
+1-45	248-249	e	NonMedicalTreatment[2]	_	_	
+1-46	250-251	a	NonMedicalTreatment[2]	_	_	
+1-47	252-259	pressão	NonMedicalTreatment[2]	_	_	
+1-48	260-269	sanguínea	NonMedicalTreatment[2]	_	_	
+1-49	270-273	sob	NonMedicalTreatment[2]	_	_	
+1-50	274-282	controle	NonMedicalTreatment[2]	_	_	
+1-51	282-283	.	NonMedicalTreatment[2]	_	_	

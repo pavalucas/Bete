@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=A resistência à insulina pode ser um quadro reversível, desde que sejam seguidas as recomendações do seu médico sobre as mudanças de hábitos de vida, como a prática de exercícios físicos e reeducação alimentar, e que sejam seguidas as recomendações farmacológicas, caso tenham sido indicadas.
+1-1	0-1	A	_	_	_	
+1-2	2-13	resistência	Complication[1]	treats|treats	1-30[2_1]|1-35[3_1]	
+1-3	14-15	à	Complication[1]	_	_	
+1-4	16-24	insulina	Complication[1]	_	_	
+1-5	25-29	pode	_	_	_	
+1-6	30-33	ser	_	_	_	
+1-7	34-36	um	_	_	_	
+1-8	37-43	quadro	_	_	_	
+1-9	44-54	reversível	_	_	_	
+1-10	54-55	,	_	_	_	
+1-11	56-61	desde	_	_	_	
+1-12	62-65	que	_	_	_	
+1-13	66-71	sejam	_	_	_	
+1-14	72-80	seguidas	_	_	_	
+1-15	81-83	as	_	_	_	
+1-16	84-97	recomendações	_	_	_	
+1-17	98-100	do	_	_	_	
+1-18	101-104	seu	_	_	_	
+1-19	105-111	médico	_	_	_	
+1-20	112-117	sobre	_	_	_	
+1-21	118-120	as	_	_	_	
+1-22	121-129	mudanças	_	_	_	
+1-23	130-132	de	_	_	_	
+1-24	133-140	hábitos	_	_	_	
+1-25	141-143	de	_	_	_	
+1-26	144-148	vida	_	_	_	
+1-27	148-149	,	_	_	_	
+1-28	150-154	como	_	_	_	
+1-29	155-156	a	_	_	_	
+1-30	157-164	prática	NonMedicalTreatment[2]	_	_	
+1-31	165-167	de	NonMedicalTreatment[2]	_	_	
+1-32	168-178	exercícios	NonMedicalTreatment[2]	_	_	
+1-33	179-186	físicos	NonMedicalTreatment[2]	_	_	
+1-34	187-188	e	_	_	_	
+1-35	189-199	reeducação	NonMedicalTreatment[3]	_	_	
+1-36	200-209	alimentar	NonMedicalTreatment[3]	_	_	
+1-37	209-210	,	_	_	_	
+1-38	211-212	e	_	_	_	
+1-39	213-216	que	_	_	_	
+1-40	217-222	sejam	_	_	_	
+1-41	223-231	seguidas	_	_	_	
+1-42	232-234	as	_	_	_	
+1-43	235-248	recomendações	_	_	_	
+1-44	249-263	farmacológicas	_	_	_	
+1-45	263-264	,	_	_	_	
+1-46	265-269	caso	_	_	_	
+1-47	270-276	tenham	_	_	_	
+1-48	277-281	sido	_	_	_	
+1-49	282-291	indicadas	_	_	_	
+1-50	291-292	.	_	_	_	

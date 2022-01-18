@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Funciona sim, a chia é uma semente rica em fibras, além de cálcio e ômega-3. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-8	Funciona	_	_	_	
+1-2	9-12	sim	_	_	_	
+1-3	12-13	,	_	_	_	
+1-4	14-15	a	_	_	_	
+1-5	16-20	chia	Food	_	_	
+1-6	21-22	é	_	_	_	
+1-7	23-26	uma	_	_	_	
+1-8	27-34	semente	_	_	_	
+1-9	35-39	rica	_	_	_	
+1-10	40-42	em	_	_	_	
+1-11	43-49	fibras	Food	has	1-5	
+1-12	49-50	,	_	_	_	
+1-13	51-55	além	_	_	_	
+1-14	56-58	de	_	_	_	
+1-15	59-65	cálcio	Food	has	1-5	
+1-16	66-67	e	_	_	_	
+1-17	68-73	ômega	Food[1]	has	1-5[0_1]	
+1-18	73-74	-	Food[1]	_	_	
+1-19	74-75	3	Food[1]	_	_	
+1-20	75-76	.	_	_	_	
+1-21	77-81	Para	_	_	_	
+1-22	82-85	uma	_	_	_	
+1-23	86-96	orientação	_	_	_	
+1-24	97-101	mais	_	_	_	
+1-25	102-112	específica	_	_	_	
+1-26	113-114	o	_	_	_	
+1-27	115-120	ideal	_	_	_	
+1-28	121-122	é	_	_	_	
+1-29	123-126	que	_	_	_	
+1-30	127-131	você	_	_	_	
+1-31	132-134	se	_	_	_	
+1-32	135-143	consulte	_	_	_	
+1-33	144-147	com	_	_	_	
+1-34	148-150	um	_	_	_	
+1-35	151-164	nutricionista	_	_	_	
+1-36	165-166	(	_	_	_	
+1-37	166-169	que	_	_	_	
+1-38	170-175	estão	_	_	_	
+1-39	176-187	disponíveis	_	_	_	
+1-40	188-201	gratuitamente	_	_	_	
+1-41	202-204	no	_	_	_	
+1-42	205-208	SUS	_	_	_	
+1-43	208-209	)	_	_	_	
+1-44	210-214	pois	_	_	_	
+1-45	215-218	ele	_	_	_	
+1-46	219-225	poderá	_	_	_	
+1-47	226-232	montar	_	_	_	
+1-48	233-236	uma	_	_	_	
+1-49	237-242	dieta	_	_	_	
+1-50	243-248	ideal	_	_	_	
+1-51	249-253	para	_	_	_	
+1-52	254-256	as	_	_	_	
+1-53	257-261	suas	_	_	_	
+1-54	262-274	necessidades	_	_	_	
+1-55	274-275	.	_	_	_	

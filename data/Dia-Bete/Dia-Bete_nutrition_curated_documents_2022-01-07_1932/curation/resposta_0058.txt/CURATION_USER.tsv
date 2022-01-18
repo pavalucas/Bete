@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Essa é uma ótima refeição, parabéns. Lembre-se que a salada deve preencher pelo menos metade do prato. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-4	Essa	_	_	_	
+1-2	5-6	é	_	_	_	
+1-3	7-10	uma	_	_	_	
+1-4	11-16	ótima	_	_	_	
+1-5	17-25	refeição	_	_	_	
+1-6	25-26	,	_	_	_	
+1-7	27-35	parabéns	_	_	_	
+1-8	35-36	.	_	_	_	
+1-9	37-46	Lembre-se	_	_	_	
+1-10	47-50	que	_	_	_	
+1-11	51-52	a	_	_	_	
+1-12	53-59	salada	Food	_	_	
+1-13	60-64	deve	_	_	_	
+1-14	65-74	preencher	_	_	_	
+1-15	75-79	pelo	_	_	_	
+1-16	80-85	menos	_	_	_	
+1-17	86-92	metade	Dose[1]	has	1-12[0_1]	
+1-18	93-95	do	Dose[1]	_	_	
+1-19	96-101	prato	Dose[1]	_	_	
+1-20	101-102	.	_	_	_	
+1-21	103-107	Para	_	_	_	
+1-22	108-111	uma	_	_	_	
+1-23	112-122	orientação	_	_	_	
+1-24	123-127	mais	_	_	_	
+1-25	128-138	específica	_	_	_	
+1-26	139-140	o	_	_	_	
+1-27	141-146	ideal	_	_	_	
+1-28	147-148	é	_	_	_	
+1-29	149-152	que	_	_	_	
+1-30	153-157	você	_	_	_	
+1-31	158-160	se	_	_	_	
+1-32	161-169	consulte	_	_	_	
+1-33	170-173	com	_	_	_	
+1-34	174-176	um	_	_	_	
+1-35	177-190	nutricionista	_	_	_	
+1-36	191-192	(	_	_	_	
+1-37	192-195	que	_	_	_	
+1-38	196-201	estão	_	_	_	
+1-39	202-213	disponíveis	_	_	_	
+1-40	214-227	gratuitamente	_	_	_	
+1-41	228-230	no	_	_	_	
+1-42	231-234	SUS	_	_	_	
+1-43	234-235	)	_	_	_	
+1-44	236-240	pois	_	_	_	
+1-45	241-244	ele	_	_	_	
+1-46	245-251	poderá	_	_	_	
+1-47	252-258	montar	_	_	_	
+1-48	259-262	uma	_	_	_	
+1-49	263-268	dieta	_	_	_	
+1-50	269-274	ideal	_	_	_	
+1-51	275-279	para	_	_	_	
+1-52	280-282	as	_	_	_	
+1-53	283-287	suas	_	_	_	
+1-54	288-300	necessidades	_	_	_	
+1-55	300-301	.	_	_	_	

@@ -1,0 +1,57 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+
+
+#Text=Para avaliar as causas da glicemia de jejum elevada, seria necessário  examinar você como um todo e saber toda a sua história médica. Por isso, recomendamos que você procure o médico que acompanha você para que ele oriente e defina se é necessário um ajuste no seu tratamento.
+1-1	0-4	Para	_	
+1-2	5-12	avaliar	_	
+1-3	13-15	as	_	
+1-4	16-22	causas	_	
+1-5	23-25	da	_	
+1-6	26-34	glicemia	_	
+1-7	35-37	de	_	
+1-8	38-43	jejum	_	
+1-9	44-51	elevada	_	
+1-10	51-52	,	_	
+1-11	53-58	seria	_	
+1-12	59-69	necessário	_	
+1-13	71-79	examinar	Test[1]	
+1-14	80-84	você	Test[1]	
+1-15	85-89	como	Test[1]	
+1-16	90-92	um	Test[1]	
+1-17	93-97	todo	Test[1]	
+1-18	98-99	e	_	
+1-19	100-105	saber	_	
+1-20	106-110	toda	_	
+1-21	111-112	a	_	
+1-22	113-116	sua	_	
+1-23	117-125	história	_	
+1-24	126-132	médica	_	
+1-25	132-133	.	_	
+1-26	134-137	Por	_	
+1-27	138-142	isso	_	
+1-28	142-143	,	_	
+1-29	144-156	recomendamos	_	
+1-30	157-160	que	_	
+1-31	161-165	você	_	
+1-32	166-173	procure	_	
+1-33	174-175	o	_	
+1-34	176-182	médico	_	
+1-35	183-186	que	_	
+1-36	187-196	acompanha	_	
+1-37	197-201	você	_	
+1-38	202-206	para	_	
+1-39	207-210	que	_	
+1-40	211-214	ele	_	
+1-41	215-222	oriente	_	
+1-42	223-224	e	_	
+1-43	225-231	defina	_	
+1-44	232-234	se	_	
+1-45	235-236	é	_	
+1-46	237-247	necessário	_	
+1-47	248-250	um	_	
+1-48	251-257	ajuste	_	
+1-49	258-260	no	_	
+1-50	261-264	seu	_	
+1-51	265-275	tratamento	_	
+1-52	275-276	.	_	

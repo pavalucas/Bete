@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=O ovo é um alimento fonte de proteínas, vitaminas e minerais e ele pode ser consumido sim. Opte por preparações como cozidos e mexidos, evitando os fritos. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-1	O	_	_	_	
+1-2	2-5	ovo	Food	_	_	
+1-3	6-7	é	_	_	_	
+1-4	8-10	um	_	_	_	
+1-5	11-19	alimento	_	_	_	
+1-6	20-25	fonte	_	_	_	
+1-7	26-28	de	_	_	_	
+1-8	29-38	proteínas	Food	has	1-2	
+1-9	38-39	,	_	_	_	
+1-10	40-49	vitaminas	Food	has	1-2	
+1-11	50-51	e	_	_	_	
+1-12	52-60	minerais	Food	has	1-2	
+1-13	61-62	e	_	_	_	
+1-14	63-66	ele	_	_	_	
+1-15	67-71	pode	_	_	_	
+1-16	72-75	ser	_	_	_	
+1-17	76-85	consumido	_	_	_	
+1-18	86-89	sim	_	_	_	
+1-19	89-90	.	_	_	_	
+1-20	91-95	Opte	_	_	_	
+1-21	96-99	por	_	_	_	
+1-22	100-111	preparações	_	_	_	
+1-23	112-116	como	_	_	_	
+1-24	117-124	cozidos	_	_	_	
+1-25	125-126	e	_	_	_	
+1-26	127-134	mexidos	_	_	_	
+1-27	134-135	,	_	_	_	
+1-28	136-144	evitando	_	_	_	
+1-29	145-147	os	_	_	_	
+1-30	148-154	fritos	_	_	_	
+1-31	154-155	.	_	_	_	
+1-32	156-160	Para	_	_	_	
+1-33	161-164	uma	_	_	_	
+1-34	165-175	orientação	_	_	_	
+1-35	176-180	mais	_	_	_	
+1-36	181-191	específica	_	_	_	
+1-37	192-193	o	_	_	_	
+1-38	194-199	ideal	_	_	_	
+1-39	200-201	é	_	_	_	
+1-40	202-205	que	_	_	_	
+1-41	206-210	você	_	_	_	
+1-42	211-213	se	_	_	_	
+1-43	214-222	consulte	_	_	_	
+1-44	223-226	com	_	_	_	
+1-45	227-229	um	_	_	_	
+1-46	230-243	nutricionista	_	_	_	
+1-47	244-245	(	_	_	_	
+1-48	245-248	que	_	_	_	
+1-49	249-254	estão	_	_	_	
+1-50	255-266	disponíveis	_	_	_	
+1-51	267-280	gratuitamente	_	_	_	
+1-52	281-283	no	_	_	_	
+1-53	284-287	SUS	_	_	_	
+1-54	287-288	)	_	_	_	
+1-55	289-293	pois	_	_	_	
+1-56	294-297	ele	_	_	_	
+1-57	298-304	poderá	_	_	_	
+1-58	305-311	montar	_	_	_	
+1-59	312-315	uma	_	_	_	
+1-60	316-321	dieta	_	_	_	
+1-61	322-327	ideal	_	_	_	
+1-62	328-332	para	_	_	_	
+1-63	333-335	as	_	_	_	
+1-64	336-340	suas	_	_	_	
+1-65	341-353	necessidades	_	_	_	
+1-66	353-354	.	_	_	_	
