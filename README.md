@@ -1,1 +1,1 @@
-# BeteNER: A Named Entity Recognition Dataset for the Diabetes Domain
+# Bete: A Brazilian Portuguese Dataset for Named Entity Recognition and Relation Extraction in the Diabetes Domain
