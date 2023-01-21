@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Podem sim, as castanhas são fontes de boas gorduras e minerais como o zinco e selênio. Porém, elas devem ser consumidas em pequenas porções, ou seja, poucas unidades ao dia. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-5	Podem	_	_	_	
+1-2	6-9	sim	_	_	_	
+1-3	9-10	,	_	_	_	
+1-4	11-13	as	_	_	_	
+1-5	14-23	castanhas	Food	_	_	
+1-6	24-27	são	_	_	_	
+1-7	28-34	fontes	_	_	_	
+1-8	35-37	de	_	_	_	
+1-9	38-42	boas	_	_	_	
+1-10	43-51	gorduras	_	_	_	
+1-11	52-53	e	_	_	_	
+1-12	54-62	minerais	_	_	_	
+1-13	63-67	como	_	_	_	
+1-14	68-69	o	_	_	_	
+1-15	70-75	zinco	_	_	_	
+1-16	76-77	e	_	_	_	
+1-17	78-85	selênio	_	_	_	
+1-18	85-86	.	_	_	_	
+1-19	87-92	Porém	_	_	_	
+1-20	92-93	,	_	_	_	
+1-21	94-98	elas	_	_	_	
+1-22	99-104	devem	_	_	_	
+1-23	105-108	ser	_	_	_	
+1-24	109-119	consumidas	_	_	_	
+1-25	120-122	em	_	_	_	
+1-26	123-131	pequenas	Dose[1]	has	1-5[0_1]	
+1-27	132-139	porções	Dose[1]	_	_	
+1-28	139-140	,	_	_	_	
+1-29	141-143	ou	_	_	_	
+1-30	144-148	seja	_	_	_	
+1-31	148-149	,	_	_	_	
+1-32	150-156	poucas	Dose[2]	has	1-5[0_2]	
+1-33	157-165	unidades	Dose[2]	_	_	
+1-34	166-168	ao	Set[3]	_	_	
+1-35	169-172	dia	Set[3]	_	_	
+1-36	172-173	.	_	_	_	
+1-37	174-178	Para	_	_	_	
+1-38	179-182	uma	_	_	_	
+1-39	183-193	orientação	_	_	_	
+1-40	194-198	mais	_	_	_	
+1-41	199-209	específica	_	_	_	
+1-42	210-211	o	_	_	_	
+1-43	212-217	ideal	_	_	_	
+1-44	218-219	é	_	_	_	
+1-45	220-223	que	_	_	_	
+1-46	224-228	você	_	_	_	
+1-47	229-231	se	NonMedicalTreatment[4]	_	_	
+1-48	232-240	consulte	NonMedicalTreatment[4]	_	_	
+1-49	241-244	com	NonMedicalTreatment[4]	_	_	
+1-50	245-247	um	NonMedicalTreatment[4]	_	_	
+1-51	248-261	nutricionista	NonMedicalTreatment[4]	_	_	
+1-52	262-263	(	_	_	_	
+1-53	263-266	que	_	_	_	
+1-54	267-272	estão	_	_	_	
+1-55	273-284	disponíveis	_	_	_	
+1-56	285-298	gratuitamente	_	_	_	
+1-57	299-301	no	_	_	_	
+1-58	302-305	SUS	_	_	_	
+1-59	305-306	)	_	_	_	
+1-60	307-311	pois	_	_	_	
+1-61	312-315	ele	_	_	_	
+1-62	316-322	poderá	_	_	_	
+1-63	323-329	montar	_	_	_	
+1-64	330-333	uma	_	_	_	
+1-65	334-339	dieta	_	_	_	
+1-66	340-345	ideal	_	_	_	
+1-67	346-350	para	_	_	_	
+1-68	351-353	as	_	_	_	
+1-69	354-358	suas	_	_	_	
+1-70	359-371	necessidades	_	_	_	
+1-71	371-372	.	_	_	_	

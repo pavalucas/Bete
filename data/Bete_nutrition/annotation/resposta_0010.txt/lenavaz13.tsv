@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=A sucralose, o aspartame e a stevia são adoçantes isentos de carboidratos digeríveis, então não aumentam a glicemia (concentração) de açúcar no sangue. No entanto, é preciso lembrar que os sucos devem ser ingeridos com moderação, pois ter uma dieta equilibrada em nutrientes e calorias é essencial para o controle do diabetes.
+1-1	0-1	A	_	_	_	
+1-2	2-11	sucralose	_	_	_	
+1-3	11-12	,	_	_	_	
+1-4	13-14	o	_	_	_	
+1-5	15-24	aspartame	_	_	_	
+1-6	25-26	e	_	_	_	
+1-7	27-28	a	_	_	_	
+1-8	29-35	stevia	_	_	_	
+1-9	36-39	são	_	_	_	
+1-10	40-49	adoçantes	Food	_	_	
+1-11	50-57	isentos	_	_	_	
+1-12	58-60	de	_	_	_	
+1-13	61-73	carboidratos	_	_	_	
+1-14	74-84	digeríveis	_	_	_	
+1-15	84-85	,	_	_	_	
+1-16	86-91	então	_	_	_	
+1-17	92-95	não	_	_	_	
+1-18	96-104	aumentam	Complication[1]	prevents	1-10[0_1]	
+1-19	105-106	a	Complication[1]	_	_	
+1-20	107-115	glicemia	Complication[1]	_	_	
+1-21	116-117	(	_	_	_	
+1-22	117-129	concentração	GlucoseValue[2]	_	_	
+1-23	129-130	)	GlucoseValue[2]	_	_	
+1-24	131-133	de	GlucoseValue[2]	_	_	
+1-25	134-140	açúcar	GlucoseValue[2]	_	_	
+1-26	141-143	no	GlucoseValue[2]	_	_	
+1-27	144-150	sangue	GlucoseValue[2]	_	_	
+1-28	150-151	.	_	_	_	
+1-29	152-154	No	_	_	_	
+1-30	155-162	entanto	_	_	_	
+1-31	162-163	,	_	_	_	
+1-32	164-165	é	_	_	_	
+1-33	166-173	preciso	_	_	_	
+1-34	174-181	lembrar	_	_	_	
+1-35	182-185	que	_	_	_	
+1-36	186-188	os	_	_	_	
+1-37	189-194	sucos	Food	_	_	
+1-38	195-200	devem	_	_	_	
+1-39	201-204	ser	_	_	_	
+1-40	205-214	ingeridos	_	_	_	
+1-41	215-218	com	_	_	_	
+1-42	219-228	moderação	_	_	_	
+1-43	228-229	,	_	_	_	
+1-44	230-234	pois	_	_	_	
+1-45	235-238	ter	_	_	_	
+1-46	239-242	uma	_	_	_	
+1-47	243-248	dieta	NonMedicalTreatment[3]	_	_	
+1-48	249-260	equilibrada	NonMedicalTreatment[3]	_	_	
+1-49	261-263	em	NonMedicalTreatment[3]	_	_	
+1-50	264-274	nutrientes	NonMedicalTreatment[3]	_	_	
+1-51	275-276	e	NonMedicalTreatment[3]	_	_	
+1-52	277-285	calorias	NonMedicalTreatment[3]	_	_	
+1-53	286-287	é	_	_	_	
+1-54	288-297	essencial	_	_	_	
+1-55	298-302	para	_	_	_	
+1-56	303-304	o	_	_	_	
+1-57	305-313	controle	_	_	_	
+1-58	314-316	do	_	_	_	
+1-59	317-325	diabetes	Complication	treats	1-47[3_0]	
+1-60	325-326	.	_	_	_	

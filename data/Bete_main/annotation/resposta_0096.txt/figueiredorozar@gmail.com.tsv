@@ -1,0 +1,39 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Os suplementos vitamínicos são indicados apenas para pessoas com deficiência de alguma (s) dela (s). Não se deve tomar complexos de vitaminas sem esse tipo de indicação.
+1-1	0-2	Os	_	_	_	
+1-2	3-14	suplementos	NonMedicalTreatment[1]	_	_	
+1-3	15-26	vitamínicos	NonMedicalTreatment[1]	_	_	
+1-4	27-30	são	_	_	_	
+1-5	31-40	indicados	_	_	_	
+1-6	41-47	apenas	_	_	_	
+1-7	48-52	para	_	_	_	
+1-8	53-60	pessoas	Complication[2]	treats	1-2[1_2]	
+1-9	61-64	com	Complication[2]	_	_	
+1-10	65-76	deficiência	Complication[2]	_	_	
+1-11	77-79	de	Complication[2]	_	_	
+1-12	80-86	alguma	Complication[2]	_	_	
+1-13	87-88	(	Complication[2]	_	_	
+1-14	88-89	s	Complication[2]	_	_	
+1-15	89-90	)	Complication[2]	_	_	
+1-16	91-95	dela	Complication[2]	_	_	
+1-17	96-97	(	Complication[2]	_	_	
+1-18	97-98	s	Complication[2]	_	_	
+1-19	98-99	)	Complication[2]	_	_	
+1-20	99-100	.	_	_	_	
+1-21	101-104	Não	_	_	_	
+1-22	105-107	se	_	_	_	
+1-23	108-112	deve	_	_	_	
+1-24	113-118	tomar	_	_	_	
+1-25	119-128	complexos	_	_	_	
+1-26	129-131	de	_	_	_	
+1-27	132-141	vitaminas	_	_	_	
+1-28	142-145	sem	_	_	_	
+1-29	146-150	esse	_	_	_	
+1-30	151-155	tipo	_	_	_	
+1-31	156-158	de	_	_	_	
+1-32	159-168	indicação	_	_	_	
+1-33	168-169	.	_	_	_	

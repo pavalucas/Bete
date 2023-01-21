@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=O primeiro passo para tratar a neuropatia é controlar a glicemia (quantidade de açúcar no sangue) e impedir o avanço dessa complicação. É preciso também ter muito cuidado com os pés: não ficar descalço, evitar sapatos de bico apertado, utilizar tênis confortáveis e frequentemente dar uma boa olhada no pé todo para ver se há alguma ferida ou infecção.
+1-1	0-1	O	_	_	_	
+1-2	2-10	primeiro	_	_	_	
+1-3	11-16	passo	_	_	_	
+1-4	17-21	para	_	_	_	
+1-5	22-28	tratar	_	_	_	
+1-6	29-30	a	_	_	_	
+1-7	31-41	neuropatia	Complication	treats|treats|treats|treats|treats	1-9[1_0]|1-52[6_0]|1-46[5_0]|1-40[4_0]|1-36[3_0]	
+1-8	42-43	é	_	_	_	
+1-9	44-53	controlar	NonMedicalTreatment[1]	_	_	
+1-10	54-55	a	NonMedicalTreatment[1]	_	_	
+1-11	56-64	glicemia	NonMedicalTreatment[1]|GlucoseValue[2]	_	_	
+1-12	65-66	(	GlucoseValue[2]	_	_	
+1-13	66-76	quantidade	GlucoseValue[2]	_	_	
+1-14	77-79	de	GlucoseValue[2]	_	_	
+1-15	80-86	açúcar	GlucoseValue[2]	_	_	
+1-16	87-89	no	GlucoseValue[2]	_	_	
+1-17	90-96	sangue	GlucoseValue[2]	_	_	
+1-18	96-97	)	GlucoseValue[2]	_	_	
+1-19	98-99	e	_	_	_	
+1-20	100-107	impedir	_	_	_	
+1-21	108-109	o	_	_	_	
+1-22	110-116	avanço	_	_	_	
+1-23	117-122	dessa	_	_	_	
+1-24	123-134	complicação	_	_	_	
+1-25	134-135	.	_	_	_	
+1-26	136-137	É	_	_	_	
+1-27	138-145	preciso	_	_	_	
+1-28	146-152	também	_	_	_	
+1-29	153-156	ter	_	_	_	
+1-30	157-162	muito	_	_	_	
+1-31	163-170	cuidado	_	_	_	
+1-32	171-174	com	_	_	_	
+1-33	175-177	os	_	_	_	
+1-34	178-181	pés	_	_	_	
+1-35	181-182	:	_	_	_	
+1-36	183-186	não	NonMedicalTreatment[3]	_	_	
+1-37	187-192	ficar	NonMedicalTreatment[3]	_	_	
+1-38	193-201	descalço	NonMedicalTreatment[3]	_	_	
+1-39	201-202	,	_	_	_	
+1-40	203-209	evitar	NonMedicalTreatment[4]	_	_	
+1-41	210-217	sapatos	NonMedicalTreatment[4]	_	_	
+1-42	218-220	de	NonMedicalTreatment[4]	_	_	
+1-43	221-225	bico	NonMedicalTreatment[4]	_	_	
+1-44	226-234	apertado	NonMedicalTreatment[4]	_	_	
+1-45	234-235	,	_	_	_	
+1-46	236-244	utilizar	NonMedicalTreatment[5]	_	_	
+1-47	245-250	tênis	NonMedicalTreatment[5]	_	_	
+1-48	251-263	confortáveis	NonMedicalTreatment[5]	_	_	
+1-49	264-265	e	_	_	_	
+1-50	266-280	frequentemente	Set	has	1-52[6_0]	
+1-51	281-284	dar	_	_	_	
+1-52	285-288	uma	NonMedicalTreatment[6]	_	_	
+1-53	289-292	boa	NonMedicalTreatment[6]	_	_	
+1-54	293-299	olhada	NonMedicalTreatment[6]	_	_	
+1-55	300-302	no	NonMedicalTreatment[6]	_	_	
+1-56	303-305	pé	NonMedicalTreatment[6]	_	_	
+1-57	306-310	todo	NonMedicalTreatment[6]	_	_	
+1-58	311-315	para	_	_	_	
+1-59	316-319	ver	_	_	_	
+1-60	320-322	se	_	_	_	
+1-61	323-325	há	_	_	_	
+1-62	326-332	alguma	_	_	_	
+1-63	333-339	ferida	Symptom	diagnoses	1-52[6_0]	
+1-64	340-342	ou	_	_	_	
+1-65	343-351	infecção	Symptom	diagnoses	1-52[6_0]	
+1-66	351-352	.	_	_	_	

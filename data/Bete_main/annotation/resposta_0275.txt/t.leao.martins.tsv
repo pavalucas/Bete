@@ -1,0 +1,55 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Não existe um alimento específico que previne o diabetes. A prevenção do diabetes deve ser feita por todas as pessoas, sem exceção! É feita por meio de uma alimentação equilibrada e realização de atividade física por pelo menos uma hora e 30 minutos na semana.
+1-1	0-3	Não	_	_	_	
+1-2	4-10	existe	_	_	_	
+1-3	11-13	um	_	_	_	
+1-4	14-22	alimento	_	_	_	
+1-5	23-33	específico	_	_	_	
+1-6	34-37	que	_	_	_	
+1-7	38-45	previne	_	_	_	
+1-8	46-47	o	_	_	_	
+1-9	48-56	diabetes	_	_	_	
+1-10	56-57	.	_	_	_	
+1-11	58-59	A	_	_	_	
+1-12	60-69	prevenção	_	_	_	
+1-13	70-72	do	_	_	_	
+1-14	73-81	diabetes	Complication	prevents|prevents	1-32[1_0]|1-37[2_0]	
+1-15	82-86	deve	_	_	_	
+1-16	87-90	ser	_	_	_	
+1-17	91-96	feita	_	_	_	
+1-18	97-100	por	_	_	_	
+1-19	101-106	todas	_	_	_	
+1-20	107-109	as	_	_	_	
+1-21	110-117	pessoas	_	_	_	
+1-22	117-118	,	_	_	_	
+1-23	119-122	sem	_	_	_	
+1-24	123-130	exceção	_	_	_	
+1-25	130-131	!	_	_	_	
+1-26	132-133	É	_	_	_	
+1-27	134-139	feita	_	_	_	
+1-28	140-143	por	_	_	_	
+1-29	144-148	meio	_	_	_	
+1-30	149-151	de	_	_	_	
+1-31	152-155	uma	_	_	_	
+1-32	156-167	alimentação	NonMedicalTreatment[1]	_	_	
+1-33	168-179	equilibrada	NonMedicalTreatment[1]	_	_	
+1-34	180-181	e	_	_	_	
+1-35	182-192	realização	_	_	_	
+1-36	193-195	de	_	_	_	
+1-37	196-205	atividade	NonMedicalTreatment[2]	_	_	
+1-38	206-212	física	NonMedicalTreatment[2]	_	_	
+1-39	213-216	por	_	_	_	
+1-40	217-221	pelo	Duration[3]	has	1-37[2_3]	
+1-41	222-227	menos	Duration[3]	_	_	
+1-42	228-231	uma	Duration[3]	_	_	
+1-43	232-236	hora	Duration[3]	_	_	
+1-44	237-238	e	Duration[3]	_	_	
+1-45	239-241	30	Duration[3]	_	_	
+1-46	242-249	minutos	Duration[3]	_	_	
+1-47	250-252	na	Set[4]	has	1-40[3_4]	
+1-48	253-259	semana	Set[4]	_	_	
+1-49	259-260	.	_	_	_	

@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=O tecido magro pesa mais que a gordura, portanto, você não verá o número na balança mudar, mas se sentirá melhor, terá mais energia, melhores níveis de glicose, etc. Com o tempo, o peso começará a diminuir. Continue o exercício. Procure ajuda com um nutricionista se você não tiver certeza sobre como controlar a alimentação e a diabetes.
+1-1	0-1	O	_	_	_	
+1-2	2-8	tecido	_	_	_	
+1-3	9-14	magro	_	_	_	
+1-4	15-19	pesa	_	_	_	
+1-5	20-24	mais	_	_	_	
+1-6	25-28	que	_	_	_	
+1-7	29-30	a	_	_	_	
+1-8	31-38	gordura	_	_	_	
+1-9	38-39	,	_	_	_	
+1-10	40-48	portanto	_	_	_	
+1-11	48-49	,	_	_	_	
+1-12	50-54	você	_	_	_	
+1-13	55-58	não	_	_	_	
+1-14	59-63	verá	_	_	_	
+1-15	64-65	o	_	_	_	
+1-16	66-72	número	_	_	_	
+1-17	73-75	na	_	_	_	
+1-18	76-83	balança	_	_	_	
+1-19	84-89	mudar	_	_	_	
+1-20	89-90	,	_	_	_	
+1-21	91-94	mas	_	_	_	
+1-22	95-97	se	_	_	_	
+1-23	98-105	sentirá	_	_	_	
+1-24	106-112	melhor	_	_	_	
+1-25	112-113	,	_	_	_	
+1-26	114-118	terá	_	_	_	
+1-27	119-123	mais	_	_	_	
+1-28	124-131	energia	_	_	_	
+1-29	131-132	,	_	_	_	
+1-30	133-141	melhores	_	_	_	
+1-31	142-148	níveis	GlucoseValue[1]	treats	1-49[0_1]	
+1-32	149-151	de	GlucoseValue[1]	_	_	
+1-33	152-159	glicose	GlucoseValue[1]	_	_	
+1-34	159-160	,	_	_	_	
+1-35	161-164	etc	_	_	_	
+1-36	164-165	.	_	_	_	
+1-37	166-169	Com	_	_	_	
+1-38	170-171	o	_	_	_	
+1-39	172-177	tempo	_	_	_	
+1-40	177-178	,	_	_	_	
+1-41	179-180	o	_	_	_	
+1-42	181-185	peso	_	_	_	
+1-43	186-194	começará	_	_	_	
+1-44	195-196	a	_	_	_	
+1-45	197-205	diminuir	_	_	_	
+1-46	205-206	.	_	_	_	
+1-47	207-215	Continue	_	_	_	
+1-48	216-217	o	_	_	_	
+1-49	218-227	exercício	NonMedicalTreatment	_	_	
+1-50	227-228	.	_	_	_	
+1-51	229-236	Procure	_	_	_	
+1-52	237-242	ajuda	NonMedicalTreatment[2]	_	_	
+1-53	243-246	com	NonMedicalTreatment[2]	_	_	
+1-54	247-249	um	NonMedicalTreatment[2]	_	_	
+1-55	250-263	nutricionista	NonMedicalTreatment[2]	_	_	
+1-56	264-266	se	_	_	_	
+1-57	267-271	você	_	_	_	
+1-58	272-275	não	_	_	_	
+1-59	276-281	tiver	_	_	_	
+1-60	282-289	certeza	_	_	_	
+1-61	290-295	sobre	_	_	_	
+1-62	296-300	como	_	_	_	
+1-63	301-310	controlar	_	_	_	
+1-64	311-312	a	_	_	_	
+1-65	313-324	alimentação	_	_	_	
+1-66	325-326	e	_	_	_	
+1-67	327-328	a	_	_	_	
+1-68	329-337	diabetes	DiabetesType	treats	1-52[2_0]	
+1-69	337-338	.	_	_	_	

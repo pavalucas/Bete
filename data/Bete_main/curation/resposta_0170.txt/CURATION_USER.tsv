@@ -1,0 +1,53 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+
+
+#Text=Enjoo pode ser um efeito colateral de diversos remédios. Por isso, é importante que você conte para o seu médico que está sentindo isso para que ele possa avaliar se é um efeito colateral esperado ou se o enjoo está sendo causado por outro motivo.
+1-1	0-5	Enjoo	Symptom	
+1-2	6-10	pode	_	
+1-3	11-14	ser	_	
+1-4	15-17	um	_	
+1-5	18-24	efeito	_	
+1-6	25-34	colateral	_	
+1-7	35-37	de	_	
+1-8	38-46	diversos	_	
+1-9	47-55	remédios	_	
+1-10	55-56	.	_	
+1-11	57-60	Por	_	
+1-12	61-65	isso	_	
+1-13	65-66	,	_	
+1-14	67-68	é	_	
+1-15	69-79	importante	_	
+1-16	80-83	que	_	
+1-17	84-88	você	_	
+1-18	89-94	conte	_	
+1-19	95-99	para	_	
+1-20	100-101	o	_	
+1-21	102-105	seu	_	
+1-22	106-112	médico	_	
+1-23	113-116	que	_	
+1-24	117-121	está	_	
+1-25	122-130	sentindo	_	
+1-26	131-135	isso	_	
+1-27	136-140	para	_	
+1-28	141-144	que	_	
+1-29	145-148	ele	_	
+1-30	149-154	possa	_	
+1-31	155-162	avaliar	_	
+1-32	163-165	se	_	
+1-33	166-167	é	_	
+1-34	168-170	um	_	
+1-35	171-177	efeito	_	
+1-36	178-187	colateral	_	
+1-37	188-196	esperado	_	
+1-38	197-199	ou	_	
+1-39	200-202	se	_	
+1-40	203-204	o	_	
+1-41	205-210	enjoo	Symptom	
+1-42	211-215	está	_	
+1-43	216-221	sendo	_	
+1-44	222-229	causado	_	
+1-45	230-233	por	_	
+1-46	234-239	outro	_	
+1-47	240-246	motivo	_	
+1-48	246-247	.	_	

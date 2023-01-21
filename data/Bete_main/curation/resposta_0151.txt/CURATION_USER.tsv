@@ -1,0 +1,41 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+
+
+#Text=A dor no peito pode ter várias causas. Pode ser algum problema sem gravidade, mas também pode ser um sinal de algum problema grave. Por isso, procure um médico o quanto antes
+1-1	0-1	A	_	
+1-2	2-5	dor	Symptom[1]	
+1-3	6-8	no	Symptom[1]	
+1-4	9-14	peito	Symptom[1]	
+1-5	15-19	pode	_	
+1-6	20-23	ter	_	
+1-7	24-30	várias	_	
+1-8	31-37	causas	_	
+1-9	37-38	.	_	
+1-10	39-43	Pode	_	
+1-11	44-47	ser	_	
+1-12	48-53	algum	_	
+1-13	54-62	problema	_	
+1-14	63-66	sem	_	
+1-15	67-76	gravidade	_	
+1-16	76-77	,	_	
+1-17	78-81	mas	_	
+1-18	82-88	também	_	
+1-19	89-93	pode	_	
+1-20	94-97	ser	_	
+1-21	98-100	um	_	
+1-22	101-106	sinal	_	
+1-23	107-109	de	_	
+1-24	110-115	algum	_	
+1-25	116-124	problema	_	
+1-26	125-130	grave	_	
+1-27	130-131	.	_	
+1-28	132-135	Por	_	
+1-29	136-140	isso	_	
+1-30	140-141	,	_	
+1-31	142-149	procure	_	
+1-32	150-152	um	_	
+1-33	153-159	médico	_	
+1-34	160-161	o	_	
+1-35	162-168	quanto	_	
+1-36	169-174	antes	_	

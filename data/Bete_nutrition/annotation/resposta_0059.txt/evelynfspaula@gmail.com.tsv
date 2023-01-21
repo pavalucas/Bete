@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=O caldo de mocotó não possui muito carboidrato. Entretanto, possui muitas gorduras e calorias, por isso, o seu consumo deve ser moderado. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-1	O	_	_	_	
+1-2	2-7	caldo	Food[1]	_	_	
+1-3	8-10	de	Food[1]	_	_	
+1-4	11-17	mocotó	Food[1]	_	_	
+1-5	18-21	não	_	_	_	
+1-6	22-28	possui	_	_	_	
+1-7	29-34	muito	_	_	_	
+1-8	35-46	carboidrato	Food	_	_	
+1-9	46-47	.	_	_	_	
+1-10	48-58	Entretanto	_	_	_	
+1-11	58-59	,	_	_	_	
+1-12	60-66	possui	_	_	_	
+1-13	67-73	muitas	_	_	_	
+1-14	74-82	gorduras	Food	has	1-2[1_0]	
+1-15	83-84	e	_	_	_	
+1-16	85-93	calorias	Food	has	1-2[1_0]	
+1-17	93-94	,	_	_	_	
+1-18	95-98	por	_	_	_	
+1-19	99-103	isso	_	_	_	
+1-20	103-104	,	_	_	_	
+1-21	105-106	o	_	_	_	
+1-22	107-110	seu	_	_	_	
+1-23	111-118	consumo	_	_	_	
+1-24	119-123	deve	_	_	_	
+1-25	124-127	ser	_	_	_	
+1-26	128-136	moderado	Dose	has	1-2[1_0]	
+1-27	136-137	.	_	_	_	
+1-28	138-142	Para	_	_	_	
+1-29	143-146	uma	_	_	_	
+1-30	147-157	orientação	_	_	_	
+1-31	158-162	mais	_	_	_	
+1-32	163-173	específica	_	_	_	
+1-33	174-175	o	_	_	_	
+1-34	176-181	ideal	_	_	_	
+1-35	182-183	é	_	_	_	
+1-36	184-187	que	_	_	_	
+1-37	188-192	você	_	_	_	
+1-38	193-195	se	_	_	_	
+1-39	196-204	consulte	_	_	_	
+1-40	205-208	com	_	_	_	
+1-41	209-211	um	_	_	_	
+1-42	212-225	nutricionista	_	_	_	
+1-43	226-227	(	_	_	_	
+1-44	227-230	que	_	_	_	
+1-45	231-236	estão	_	_	_	
+1-46	237-248	disponíveis	_	_	_	
+1-47	249-262	gratuitamente	_	_	_	
+1-48	263-265	no	_	_	_	
+1-49	266-269	SUS	_	_	_	
+1-50	269-270	)	_	_	_	
+1-51	271-275	pois	_	_	_	
+1-52	276-279	ele	_	_	_	
+1-53	280-286	poderá	_	_	_	
+1-54	287-293	montar	_	_	_	
+1-55	294-297	uma	_	_	_	
+1-56	298-303	dieta	_	_	_	
+1-57	304-309	ideal	_	_	_	
+1-58	310-314	para	_	_	_	
+1-59	315-317	as	_	_	_	
+1-60	318-322	suas	_	_	_	
+1-61	323-335	necessidades	_	_	_	
+1-62	335-336	.	_	_	_	

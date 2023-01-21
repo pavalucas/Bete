@@ -44,9 +44,9 @@ def align(data):
         procdata.append({'X': X_, 'y': new_tags})
     return procdata
 
-train_pkl = pickle.load(open('../../data/Dia-Bete/train/train.pkl', 'rb'))
-dev_pkl = pickle.load(open('../../data/Dia-Bete/dev/dev.pkl', 'rb'))
-test_pkl = pickle.load(open('../../data/Dia-Bete/test/test.pkl', 'rb'))
+train_pkl = pickle.load(open('../../data/train/train.pkl', 'rb'))
+dev_pkl = pickle.load(open('../../data/dev/dev.pkl', 'rb'))
+test_pkl = pickle.load(open('../../data/test/test.pkl', 'rb'))
 
 train_data = align(train_pkl)
 dev_data = align(dev_pkl)

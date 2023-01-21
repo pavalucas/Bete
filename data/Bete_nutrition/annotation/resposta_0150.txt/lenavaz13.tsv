@@ -1,0 +1,72 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=O leitão a pururuca é um alimento com grande quantidade de gorduras saturadas, além de calórico, por isso, o seu consumo deve ser feito de forma esporádica. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-1	O	_	_	_	
+1-2	2-8	leitão	Food[1]	_	_	
+1-3	9-10	a	Food[1]	_	_	
+1-4	11-19	pururuca	Food[1]	_	_	
+1-5	20-21	é	_	_	_	
+1-6	22-24	um	_	_	_	
+1-7	25-33	alimento	_	_	_	
+1-8	34-37	com	_	_	_	
+1-9	38-44	grande	_	_	_	
+1-10	45-55	quantidade	_	_	_	
+1-11	56-58	de	_	_	_	
+1-12	59-67	gorduras	_	_	_	
+1-13	68-77	saturadas	_	_	_	
+1-14	77-78	,	_	_	_	
+1-15	79-83	além	_	_	_	
+1-16	84-86	de	_	_	_	
+1-17	87-95	calórico	_	_	_	
+1-18	95-96	,	_	_	_	
+1-19	97-100	por	_	_	_	
+1-20	101-105	isso	_	_	_	
+1-21	105-106	,	_	_	_	
+1-22	107-108	o	_	_	_	
+1-23	109-112	seu	_	_	_	
+1-24	113-120	consumo	_	_	_	
+1-25	121-125	deve	_	_	_	
+1-26	126-129	ser	_	_	_	
+1-27	130-135	feito	_	_	_	
+1-28	136-138	de	Set[2]	has	1-2[1_2]	
+1-29	139-144	forma	Set[2]	_	_	
+1-30	145-155	esporádica	Set[2]	_	_	
+1-31	155-156	.	_	_	_	
+1-32	157-161	Para	_	_	_	
+1-33	162-165	uma	_	_	_	
+1-34	166-176	orientação	_	_	_	
+1-35	177-181	mais	_	_	_	
+1-36	182-192	específica	_	_	_	
+1-37	193-194	o	_	_	_	
+1-38	195-200	ideal	_	_	_	
+1-39	201-202	é	_	_	_	
+1-40	203-206	que	_	_	_	
+1-41	207-211	você	_	_	_	
+1-42	212-214	se	NonMedicalTreatment[3]	_	_	
+1-43	215-223	consulte	NonMedicalTreatment[3]	_	_	
+1-44	224-227	com	NonMedicalTreatment[3]	_	_	
+1-45	228-230	um	NonMedicalTreatment[3]	_	_	
+1-46	231-244	nutricionista	NonMedicalTreatment[3]	_	_	
+1-47	245-246	(	_	_	_	
+1-48	246-249	que	_	_	_	
+1-49	250-255	estão	_	_	_	
+1-50	256-267	disponíveis	_	_	_	
+1-51	268-281	gratuitamente	_	_	_	
+1-52	282-284	no	_	_	_	
+1-53	285-288	SUS	_	_	_	
+1-54	288-289	)	_	_	_	
+1-55	290-294	pois	_	_	_	
+1-56	295-298	ele	_	_	_	
+1-57	299-305	poderá	_	_	_	
+1-58	306-312	montar	_	_	_	
+1-59	313-316	uma	_	_	_	
+1-60	317-322	dieta	_	_	_	
+1-61	323-328	ideal	_	_	_	
+1-62	329-333	para	_	_	_	
+1-63	334-336	as	_	_	_	
+1-64	337-341	suas	_	_	_	
+1-65	342-354	necessidades	_	_	_	
+1-66	354-355	.	_	_	_	

@@ -1,0 +1,56 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+
+
+#Text=A sucralose, o aspartame e a stevia são adoçantes que não possuem calorias, então não aumentam a quantidade de açúcar no sangue. Logo, eles podem ser utilizados por pessoas com diabetes. No entanto, é preciso lembrar que seu uso deve ser feito com moderação.
+1-1	0-1	A	_	
+1-2	2-11	sucralose	Food	
+1-3	11-12	,	_	
+1-4	13-14	o	_	
+1-5	15-24	aspartame	Food	
+1-6	25-26	e	_	
+1-7	27-28	a	_	
+1-8	29-35	stevia	Food	
+1-9	36-39	são	_	
+1-10	40-49	adoçantes	_	
+1-11	50-53	que	_	
+1-12	54-57	não	_	
+1-13	58-65	possuem	_	
+1-14	66-74	calorias	_	
+1-15	74-75	,	_	
+1-16	76-81	então	_	
+1-17	82-85	não	_	
+1-18	86-94	aumentam	_	
+1-19	95-96	a	_	
+1-20	97-107	quantidade	GlucoseValue[1]	
+1-21	108-110	de	GlucoseValue[1]	
+1-22	111-117	açúcar	GlucoseValue[1]	
+1-23	118-120	no	GlucoseValue[1]	
+1-24	121-127	sangue	GlucoseValue[1]	
+1-25	127-128	.	_	
+1-26	129-133	Logo	_	
+1-27	133-134	,	_	
+1-28	135-139	eles	_	
+1-29	140-145	podem	_	
+1-30	146-149	ser	_	
+1-31	150-160	utilizados	_	
+1-32	161-164	por	_	
+1-33	165-172	pessoas	_	
+1-34	173-176	com	_	
+1-35	177-185	diabetes	_	
+1-36	185-186	.	_	
+1-37	187-189	No	_	
+1-38	190-197	entanto	_	
+1-39	197-198	,	_	
+1-40	199-200	é	_	
+1-41	201-208	preciso	_	
+1-42	209-216	lembrar	_	
+1-43	217-220	que	_	
+1-44	221-224	seu	_	
+1-45	225-228	uso	_	
+1-46	229-233	deve	_	
+1-47	234-237	ser	_	
+1-48	238-243	feito	_	
+1-49	244-247	com	_	
+1-50	248-257	moderação	_	
+1-51	257-258	.	_	

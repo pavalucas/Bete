@@ -1,0 +1,91 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=- Para que uma pessoa possa ser considerada como portadora de diabetes os exames realizados devem dar os seguintes resultados:
+1-1	0-1	-	_	_	_	
+1-2	2-6	Para	_	_	_	
+1-3	7-10	que	_	_	_	
+1-4	11-14	uma	_	_	_	
+1-5	15-21	pessoa	_	_	_	
+1-6	22-27	possa	_	_	_	
+1-7	28-31	ser	_	_	_	
+1-8	32-43	considerada	_	_	_	
+1-9	44-48	como	_	_	_	
+1-10	49-58	portadora	_	_	_	
+1-11	59-61	de	_	_	_	
+1-12	62-70	diabetes	Complication	diagnoses|diagnoses|diagnoses	2-2[1_0]|3-16[5_0]|4-5[6_0]	
+1-13	71-73	os	_	_	_	
+1-14	74-80	exames	_	_	_	
+1-15	81-91	realizados	_	_	_	
+1-16	92-97	devem	_	_	_	
+1-17	98-101	dar	_	_	_	
+1-18	102-104	os	_	_	_	
+1-19	105-114	seguintes	_	_	_	
+1-20	115-125	resultados	_	_	_	
+1-21	125-126	:	_	_	_	
+
+#Text=* Glicemia em jejum maior ou igual a 126 mg/dL em duas ocasiões;
+2-1	131-132	*	_	_	_	
+2-2	133-141	Glicemia	Test[1]	_	_	
+2-3	142-144	em	Test[1]	_	_	
+2-4	145-150	jejum	Test[1]	_	_	
+2-5	151-156	maior	GlucoseValue[2]	diagnoses	2-2[1_2]	
+2-6	157-159	ou	GlucoseValue[2]	_	_	
+2-7	160-165	igual	GlucoseValue[2]	_	_	
+2-8	166-167	a	GlucoseValue[2]	_	_	
+2-9	168-171	126	GlucoseValue[2]	_	_	
+2-10	172-174	mg	GlucoseValue[2]	_	_	
+2-11	174-175	/	GlucoseValue[2]	_	_	
+2-12	175-177	dL	GlucoseValue[2]	_	_	
+2-13	178-180	em	_	_	_	
+2-14	181-185	duas	Set[3]	has	2-2[1_3]	
+2-15	186-194	ocasiões	Set[3]	_	_	
+2-16	194-195	;	_	_	_	
+
+#Text=* Glicemia maior ou igual a 200 mg/dL duas horas após 75g de glicose oral (dextrosol);
+3-1	200-201	*	_	_	_	
+3-2	202-210	Glicemia	_	_	_	
+3-3	211-216	maior	GlucoseValue[4]	diagnoses	3-16[5_4]	
+3-4	217-219	ou	GlucoseValue[4]	_	_	
+3-5	220-225	igual	GlucoseValue[4]	_	_	
+3-6	226-227	a	GlucoseValue[4]	_	_	
+3-7	228-231	200	GlucoseValue[4]	_	_	
+3-8	232-234	mg	GlucoseValue[4]	_	_	
+3-9	234-235	/	GlucoseValue[4]	_	_	
+3-10	235-237	dL	GlucoseValue[4]	_	_	
+3-11	238-242	duas	_	_	_	
+3-12	243-248	horas	_	_	_	
+3-13	249-253	após	_	_	_	
+3-14	254-257	75g	_	_	_	
+3-15	258-260	de	_	_	_	
+3-16	261-268	glicose	Test[5]	_	_	
+3-17	269-273	oral	Test[5]	_	_	
+3-18	274-275	(	Test[5]	_	_	
+3-19	275-284	dextrosol	Test[5]	_	_	
+3-20	284-285	)	Test[5]	_	_	
+3-21	285-286	;	_	_	_	
+
+#Text=* Nível plasmático de glicose aleatória acima de 200 mg/dL associado a sinais e sintomas típicos de diabetes.
+4-1	291-292	*	_	_	_	
+4-2	293-298	Nível	_	_	_	
+4-3	299-309	plasmático	_	_	_	
+4-4	310-312	de	_	_	_	
+4-5	313-320	glicose	Test[6]	_	_	
+4-6	321-330	aleatória	Test[6]	_	_	
+4-7	331-336	acima	GlucoseValue[7]	diagnoses	4-5[6_7]	
+4-8	337-339	de	GlucoseValue[7]	_	_	
+4-9	340-343	200	GlucoseValue[7]	_	_	
+4-10	344-346	mg	GlucoseValue[7]	_	_	
+4-11	346-347	/	GlucoseValue[7]	_	_	
+4-12	347-349	dL	GlucoseValue[7]	_	_	
+4-13	350-359	associado	_	_	_	
+4-14	360-361	a	_	_	_	
+4-15	362-368	sinais	_	_	_	
+4-16	369-370	e	_	_	_	
+4-17	371-379	sintomas	_	_	_	
+4-18	380-387	típicos	_	_	_	
+4-19	388-390	de	_	_	_	
+4-20	391-399	diabetes	_	_	_	
+4-21	399-400	.	_	_	_	

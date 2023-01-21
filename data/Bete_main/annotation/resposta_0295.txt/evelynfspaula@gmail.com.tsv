@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Os níveis deglicemia em jejum são geralmente mais altos no início da manhã devido ao aumento da atividade hormonal durante a noite e tendem a diminuir para níveis mais normais durante o dia.
+1-1	0-2	Os	_	_	_	
+1-2	3-9	níveis	GlucoseValue[1]	_	_	
+1-3	10-20	deglicemia	GlucoseValue[1]	_	_	
+1-4	21-23	em	_	_	_	
+1-5	24-29	jejum	NonMedicalTreatment	_	_	
+1-6	30-33	são	_	_	_	
+1-7	34-44	geralmente	_	_	_	
+1-8	45-49	mais	_	_	_	
+1-9	50-55	altos	_	_	_	
+1-10	56-58	no	_	_	_	
+1-11	59-65	início	Time[2]	has	1-2[1_2]	
+1-12	66-68	da	Time[2]	_	_	
+1-13	69-74	manhã	Time[2]	_	_	
+1-14	75-81	devido	_	_	_	
+1-15	82-84	ao	_	_	_	
+1-16	85-92	aumento	_	_	_	
+1-17	93-95	da	_	_	_	
+1-18	96-105	atividade	_	_	_	
+1-19	106-114	hormonal	_	_	_	
+1-20	115-122	durante	Time[3]	has	1-2[1_3]	
+1-21	123-124	a	Time[3]	_	_	
+1-22	125-130	noite	Time[3]	_	_	
+1-23	131-132	e	_	_	_	
+1-24	133-139	tendem	_	_	_	
+1-25	140-141	a	_	_	_	
+1-26	142-150	diminuir	_	_	_	
+1-27	151-155	para	_	_	_	
+1-28	156-162	níveis	_	_	_	
+1-29	163-167	mais	_	_	_	
+1-30	168-175	normais	_	_	_	
+1-31	176-183	durante	Time[4]	has	1-2[1_4]	
+1-32	184-185	o	Time[4]	_	_	
+1-33	186-189	dia	Time[4]	_	_	
+1-34	189-190	.	_	_	_	

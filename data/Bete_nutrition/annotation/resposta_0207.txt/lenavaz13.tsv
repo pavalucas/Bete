@@ -1,0 +1,65 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=O creme de leite é rico em gorduras e mais calórico, então ele não deve ser consumido sempre e em grandes quantidades. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-1	O	_	_	_	
+1-2	2-7	creme	Food[1]	_	_	
+1-3	8-10	de	Food[1]	_	_	
+1-4	11-16	leite	Food[1]	_	_	
+1-5	17-18	é	_	_	_	
+1-6	19-23	rico	_	_	_	
+1-7	24-26	em	_	_	_	
+1-8	27-35	gorduras	_	_	_	
+1-9	36-37	e	_	_	_	
+1-10	38-42	mais	_	_	_	
+1-11	43-51	calórico	_	_	_	
+1-12	51-52	,	_	_	_	
+1-13	53-58	então	_	_	_	
+1-14	59-62	ele	_	_	_	
+1-15	63-66	não	_	_	_	
+1-16	67-71	deve	_	_	_	
+1-17	72-75	ser	_	_	_	
+1-18	76-85	consumido	_	_	_	
+1-19	86-92	sempre	Set	_	_	
+1-20	93-94	e	_	_	_	
+1-21	95-97	em	_	_	_	
+1-22	98-105	grandes	Dose[2]	has	1-2[1_2]	
+1-23	106-117	quantidades	Dose[2]	_	_	
+1-24	117-118	.	_	_	_	
+1-25	119-123	Para	_	_	_	
+1-26	124-127	uma	_	_	_	
+1-27	128-138	orientação	_	_	_	
+1-28	139-143	mais	_	_	_	
+1-29	144-154	específica	_	_	_	
+1-30	155-156	o	_	_	_	
+1-31	157-162	ideal	_	_	_	
+1-32	163-164	é	_	_	_	
+1-33	165-168	que	_	_	_	
+1-34	169-173	você	_	_	_	
+1-35	174-176	se	NonMedicalTreatment[3]	_	_	
+1-36	177-185	consulte	NonMedicalTreatment[3]	_	_	
+1-37	186-189	com	NonMedicalTreatment[3]	_	_	
+1-38	190-192	um	NonMedicalTreatment[3]	_	_	
+1-39	193-206	nutricionista	NonMedicalTreatment[3]	_	_	
+1-40	207-208	(	_	_	_	
+1-41	208-211	que	_	_	_	
+1-42	212-217	estão	_	_	_	
+1-43	218-229	disponíveis	_	_	_	
+1-44	230-243	gratuitamente	_	_	_	
+1-45	244-246	no	_	_	_	
+1-46	247-250	SUS	_	_	_	
+1-47	250-251	)	_	_	_	
+1-48	252-256	pois	_	_	_	
+1-49	257-260	ele	_	_	_	
+1-50	261-267	poderá	_	_	_	
+1-51	268-274	montar	_	_	_	
+1-52	275-278	uma	_	_	_	
+1-53	279-284	dieta	_	_	_	
+1-54	285-290	ideal	_	_	_	
+1-55	291-295	para	_	_	_	
+1-56	296-298	as	_	_	_	
+1-57	299-303	suas	_	_	_	
+1-58	304-316	necessidades	_	_	_	
+1-59	316-317	.	_	_	_	

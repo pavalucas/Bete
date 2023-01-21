@@ -1,0 +1,74 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Não, a aveia é rica em fibras e também tem proteína, o que ajuda a controlar o índice glicêmico da refeição. Experimente acrescentar em frutas, vitaminas e panquecas. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-3	Não	_	_	_	
+1-2	3-4	,	_	_	_	
+1-3	5-6	a	_	_	_	
+1-4	7-12	aveia	Food	_	_	
+1-5	13-14	é	_	_	_	
+1-6	15-19	rica	_	_	_	
+1-7	20-22	em	_	_	_	
+1-8	23-29	fibras	Food	has	1-4	
+1-9	30-31	e	_	_	_	
+1-10	32-38	também	_	_	_	
+1-11	39-42	tem	_	_	_	
+1-12	43-51	proteína	Food	has	1-4	
+1-13	51-52	,	_	_	_	
+1-14	53-54	o	_	_	_	
+1-15	55-58	que	_	_	_	
+1-16	59-64	ajuda	_	_	_	
+1-17	65-66	a	_	_	_	
+1-18	67-76	controlar	_	_	_	
+1-19	77-78	o	_	_	_	
+1-20	79-85	índice	_	_	_	
+1-21	86-95	glicêmico	_	_	_	
+1-22	96-98	da	_	_	_	
+1-23	99-107	refeição	_	_	_	
+1-24	107-108	.	_	_	_	
+1-25	109-120	Experimente	_	_	_	
+1-26	121-132	acrescentar	_	_	_	
+1-27	133-135	em	_	_	_	
+1-28	136-142	frutas	Food	_	_	
+1-29	142-143	,	_	_	_	
+1-30	144-153	vitaminas	Food	_	_	
+1-31	154-155	e	_	_	_	
+1-32	156-165	panquecas	Food	_	_	
+1-33	165-166	.	_	_	_	
+1-34	167-171	Para	_	_	_	
+1-35	172-175	uma	_	_	_	
+1-36	176-186	orientação	_	_	_	
+1-37	187-191	mais	_	_	_	
+1-38	192-202	específica	_	_	_	
+1-39	203-204	o	_	_	_	
+1-40	205-210	ideal	_	_	_	
+1-41	211-212	é	_	_	_	
+1-42	213-216	que	_	_	_	
+1-43	217-221	você	_	_	_	
+1-44	222-224	se	_	_	_	
+1-45	225-233	consulte	_	_	_	
+1-46	234-237	com	_	_	_	
+1-47	238-240	um	_	_	_	
+1-48	241-254	nutricionista	_	_	_	
+1-49	255-256	(	_	_	_	
+1-50	256-259	que	_	_	_	
+1-51	260-265	estão	_	_	_	
+1-52	266-277	disponíveis	_	_	_	
+1-53	278-291	gratuitamente	_	_	_	
+1-54	292-294	no	_	_	_	
+1-55	295-298	SUS	_	_	_	
+1-56	298-299	)	_	_	_	
+1-57	300-304	pois	_	_	_	
+1-58	305-308	ele	_	_	_	
+1-59	309-315	poderá	_	_	_	
+1-60	316-322	montar	_	_	_	
+1-61	323-326	uma	_	_	_	
+1-62	327-332	dieta	_	_	_	
+1-63	333-338	ideal	_	_	_	
+1-64	339-343	para	_	_	_	
+1-65	344-346	as	_	_	_	
+1-66	347-351	suas	_	_	_	
+1-67	352-364	necessidades	_	_	_	
+1-68	364-365	.	_	_	_	

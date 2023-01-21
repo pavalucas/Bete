@@ -1,0 +1,66 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Os flocos de arroz tem uma quantidade elevada de carboidratos por uma pequena porção, com isso, o seu consumo deve ser moderado. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-2	Os	_	_	_	
+1-2	3-9	flocos	Food[1]	_	_	
+1-3	10-12	de	Food[1]	_	_	
+1-4	13-18	arroz	Food[1]	_	_	
+1-5	19-22	tem	_	_	_	
+1-6	23-26	uma	_	_	_	
+1-7	27-37	quantidade	_	_	_	
+1-8	38-45	elevada	_	_	_	
+1-9	46-48	de	_	_	_	
+1-10	49-61	carboidratos	Food	has	1-2[1_0]	
+1-11	62-65	por	_	_	_	
+1-12	66-69	uma	_	_	_	
+1-13	70-77	pequena	_	_	_	
+1-14	78-84	porção	_	_	_	
+1-15	84-85	,	_	_	_	
+1-16	86-89	com	_	_	_	
+1-17	90-94	isso	_	_	_	
+1-18	94-95	,	_	_	_	
+1-19	96-97	o	_	_	_	
+1-20	98-101	seu	_	_	_	
+1-21	102-109	consumo	_	_	_	
+1-22	110-114	deve	_	_	_	
+1-23	115-118	ser	_	_	_	
+1-24	119-127	moderado	Dose	has	1-2[1_0]	
+1-25	127-128	.	_	_	_	
+1-26	129-133	Para	_	_	_	
+1-27	134-137	uma	_	_	_	
+1-28	138-148	orientação	_	_	_	
+1-29	149-153	mais	_	_	_	
+1-30	154-164	específica	_	_	_	
+1-31	165-166	o	_	_	_	
+1-32	167-172	ideal	_	_	_	
+1-33	173-174	é	_	_	_	
+1-34	175-178	que	_	_	_	
+1-35	179-183	você	_	_	_	
+1-36	184-186	se	_	_	_	
+1-37	187-195	consulte	_	_	_	
+1-38	196-199	com	_	_	_	
+1-39	200-202	um	_	_	_	
+1-40	203-216	nutricionista	_	_	_	
+1-41	217-218	(	_	_	_	
+1-42	218-221	que	_	_	_	
+1-43	222-227	estão	_	_	_	
+1-44	228-239	disponíveis	_	_	_	
+1-45	240-253	gratuitamente	_	_	_	
+1-46	254-256	no	_	_	_	
+1-47	257-260	SUS	_	_	_	
+1-48	260-261	)	_	_	_	
+1-49	262-266	pois	_	_	_	
+1-50	267-270	ele	_	_	_	
+1-51	271-277	poderá	_	_	_	
+1-52	278-284	montar	_	_	_	
+1-53	285-288	uma	_	_	_	
+1-54	289-294	dieta	_	_	_	
+1-55	295-300	ideal	_	_	_	
+1-56	301-305	para	_	_	_	
+1-57	306-308	as	_	_	_	
+1-58	309-313	suas	_	_	_	
+1-59	314-326	necessidades	_	_	_	
+1-60	326-327	.	_	_	_	

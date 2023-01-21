@@ -1,0 +1,71 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Alterações na visão podem inúmeras causas, sendo uma delas o diabetes mal controlado. Todo paciente diabético precisa passar em uma consulta com o oftalmologista (médico do olho). Portanto, é indicado que você procure o seu médico de referência, conte o que está acontecendo e ele então irá te encaminhar para o oftalmologista. É gratuito pelo SUS!
+1-1	0-10	Alterações	Symptom[1]	has	1-12[2_1]	
+1-2	11-13	na	Symptom[1]	_	_	
+1-3	14-19	visão	Symptom[1]	_	_	
+1-4	20-25	podem	_	_	_	
+1-5	26-34	inúmeras	_	_	_	
+1-6	35-41	causas	_	_	_	
+1-7	41-42	,	_	_	_	
+1-8	43-48	sendo	_	_	_	
+1-9	49-52	uma	_	_	_	
+1-10	53-58	delas	_	_	_	
+1-11	59-60	o	_	_	_	
+1-12	61-69	diabetes	Complication[2]	_	_	
+1-13	70-73	mal	Complication[2]	_	_	
+1-14	74-84	controlado	Complication[2]	_	_	
+1-15	84-85	.	_	_	_	
+1-16	86-90	Todo	_	_	_	
+1-17	91-99	paciente	_	_	_	
+1-18	100-109	diabético	_	_	_	
+1-19	110-117	precisa	_	_	_	
+1-20	118-124	passar	_	_	_	
+1-21	125-127	em	_	_	_	
+1-22	128-131	uma	_	_	_	
+1-23	132-140	consulta	Test[3]	_	_	
+1-24	141-144	com	Test[3]	_	_	
+1-25	145-146	o	Test[3]	_	_	
+1-26	147-161	oftalmologista	Test[3]	_	_	
+1-27	162-163	(	_	_	_	
+1-28	163-169	médico	_	_	_	
+1-29	170-172	do	_	_	_	
+1-30	173-177	olho	_	_	_	
+1-31	177-178	)	_	_	_	
+1-32	178-179	.	_	_	_	
+1-33	180-188	Portanto	_	_	_	
+1-34	188-189	,	_	_	_	
+1-35	190-191	é	_	_	_	
+1-36	192-200	indicado	_	_	_	
+1-37	201-204	que	_	_	_	
+1-38	205-209	você	_	_	_	
+1-39	210-217	procure	_	_	_	
+1-40	218-219	o	_	_	_	
+1-41	220-223	seu	_	_	_	
+1-42	224-230	médico	_	_	_	
+1-43	231-233	de	_	_	_	
+1-44	234-244	referência	_	_	_	
+1-45	244-245	,	_	_	_	
+1-46	246-251	conte	_	_	_	
+1-47	252-253	o	_	_	_	
+1-48	254-257	que	_	_	_	
+1-49	258-262	está	_	_	_	
+1-50	263-274	acontecendo	_	_	_	
+1-51	275-276	e	_	_	_	
+1-52	277-280	ele	_	_	_	
+1-53	281-286	então	_	_	_	
+1-54	287-290	irá	_	_	_	
+1-55	291-293	te	_	_	_	
+1-56	294-304	encaminhar	_	_	_	
+1-57	305-309	para	_	_	_	
+1-58	310-311	o	_	_	_	
+1-59	312-326	oftalmologista	_	_	_	
+1-60	326-327	.	_	_	_	
+1-61	328-329	É	_	_	_	
+1-62	330-338	gratuito	_	_	_	
+1-63	339-343	pelo	_	_	_	
+1-64	344-347	SUS	_	_	_	
+1-65	347-348	!	_	_	_	

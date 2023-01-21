@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=O melhor momento para se tomar o Glifage (também conhecido como Metformina) é depois de uma refeição. Não tem problema se isso ocorrer perto da hora de dormir ou depois do almoço. É importante lembrar que deve-se seguir a orientação do seu médico e nenhuma mudança na medicação (quantidade, horário, tipo, etc) deve ser feita sem consultá-lo.
+1-1	0-1	O	_	_	_	
+1-2	2-8	melhor	_	_	_	
+1-3	9-16	momento	_	_	_	
+1-4	17-21	para	_	_	_	
+1-5	22-24	se	_	_	_	
+1-6	25-30	tomar	_	_	_	
+1-7	31-32	o	_	_	_	
+1-8	33-40	Glifage	Medication	_	_	
+1-9	41-42	(	_	_	_	
+1-10	42-48	também	_	_	_	
+1-11	49-58	conhecido	_	_	_	
+1-12	59-63	como	_	_	_	
+1-13	64-74	Metformina	_	_	_	
+1-14	74-75	)	_	_	_	
+1-15	76-77	é	_	_	_	
+1-16	78-84	depois	Time[1]	has	1-8[0_1]	
+1-17	85-87	de	Time[1]	_	_	
+1-18	88-91	uma	Time[1]	_	_	
+1-19	92-100	refeição	Time[1]	_	_	
+1-20	100-101	.	_	_	_	
+1-21	102-105	Não	_	_	_	
+1-22	106-109	tem	_	_	_	
+1-23	110-118	problema	_	_	_	
+1-24	119-121	se	_	_	_	
+1-25	122-126	isso	_	_	_	
+1-26	127-134	ocorrer	_	_	_	
+1-27	135-140	perto	_	_	_	
+1-28	141-143	da	_	_	_	
+1-29	144-148	hora	_	_	_	
+1-30	149-151	de	_	_	_	
+1-31	152-158	dormir	_	_	_	
+1-32	159-161	ou	_	_	_	
+1-33	162-168	depois	_	_	_	
+1-34	169-171	do	_	_	_	
+1-35	172-178	almoço	_	_	_	
+1-36	178-179	.	_	_	_	
+1-37	180-181	É	_	_	_	
+1-38	182-192	importante	_	_	_	
+1-39	193-200	lembrar	_	_	_	
+1-40	201-204	que	_	_	_	
+1-41	205-212	deve-se	_	_	_	
+1-42	213-219	seguir	_	_	_	
+1-43	220-221	a	_	_	_	
+1-44	222-232	orientação	_	_	_	
+1-45	233-235	do	_	_	_	
+1-46	236-239	seu	_	_	_	
+1-47	240-246	médico	_	_	_	
+1-48	247-248	e	_	_	_	
+1-49	249-256	nenhuma	_	_	_	
+1-50	257-264	mudança	_	_	_	
+1-51	265-267	na	_	_	_	
+1-52	268-277	medicação	_	_	_	
+1-53	278-279	(	_	_	_	
+1-54	279-289	quantidade	_	_	_	
+1-55	289-290	,	_	_	_	
+1-56	291-298	horário	_	_	_	
+1-57	298-299	,	_	_	_	
+1-58	300-304	tipo	_	_	_	
+1-59	304-305	,	_	_	_	
+1-60	306-309	etc	_	_	_	
+1-61	309-310	)	_	_	_	
+1-62	311-315	deve	_	_	_	
+1-63	316-319	ser	_	_	_	
+1-64	320-325	feita	_	_	_	
+1-65	326-329	sem	_	_	_	
+1-66	330-341	consultá-lo	_	_	_	
+1-67	341-342	.	_	_	_	

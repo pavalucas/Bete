@@ -1,0 +1,73 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Não há como saber o que pode ter causado o desconforto. Com auxílio de um nutricionista ou médico, faça uma avaliação se você possui alguma alergia ou intolerância alimentar. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-3	Não	_	_	_	
+1-2	4-6	há	_	_	_	
+1-3	7-11	como	_	_	_	
+1-4	12-17	saber	_	_	_	
+1-5	18-19	o	_	_	_	
+1-6	20-23	que	_	_	_	
+1-7	24-28	pode	_	_	_	
+1-8	29-32	ter	_	_	_	
+1-9	33-40	causado	_	_	_	
+1-10	41-42	o	_	_	_	
+1-11	43-54	desconforto	Symptom	has|has	1-28|1-30[1_0]	
+1-12	54-55	.	_	_	_	
+1-13	56-59	Com	_	_	_	
+1-14	60-67	auxílio	_	_	_	
+1-15	68-70	de	_	_	_	
+1-16	71-73	um	_	_	_	
+1-17	74-87	nutricionista	_	_	_	
+1-18	88-90	ou	_	_	_	
+1-19	91-97	médico	_	_	_	
+1-20	97-98	,	_	_	_	
+1-21	99-103	faça	_	_	_	
+1-22	104-107	uma	_	_	_	
+1-23	108-117	avaliação	_	_	_	
+1-24	118-120	se	_	_	_	
+1-25	121-125	você	_	_	_	
+1-26	126-132	possui	_	_	_	
+1-27	133-139	alguma	_	_	_	
+1-28	140-147	alergia	Complication	_	_	
+1-29	148-150	ou	_	_	_	
+1-30	151-163	intolerância	Complication[1]	_	_	
+1-31	164-173	alimentar	Complication[1]	_	_	
+1-32	173-174	.	_	_	_	
+1-33	175-179	Para	_	_	_	
+1-34	180-183	uma	_	_	_	
+1-35	184-194	orientação	_	_	_	
+1-36	195-199	mais	_	_	_	
+1-37	200-210	específica	_	_	_	
+1-38	211-212	o	_	_	_	
+1-39	213-218	ideal	_	_	_	
+1-40	219-220	é	_	_	_	
+1-41	221-224	que	_	_	_	
+1-42	225-229	você	_	_	_	
+1-43	230-232	se	_	_	_	
+1-44	233-241	consulte	_	_	_	
+1-45	242-245	com	_	_	_	
+1-46	246-248	um	_	_	_	
+1-47	249-262	nutricionista	_	_	_	
+1-48	263-264	(	_	_	_	
+1-49	264-267	que	_	_	_	
+1-50	268-273	estão	_	_	_	
+1-51	274-285	disponíveis	_	_	_	
+1-52	286-299	gratuitamente	_	_	_	
+1-53	300-302	no	_	_	_	
+1-54	303-306	SUS	_	_	_	
+1-55	306-307	)	_	_	_	
+1-56	308-312	pois	_	_	_	
+1-57	313-316	ele	_	_	_	
+1-58	317-323	poderá	_	_	_	
+1-59	324-330	montar	_	_	_	
+1-60	331-334	uma	_	_	_	
+1-61	335-340	dieta	_	_	_	
+1-62	341-346	ideal	_	_	_	
+1-63	347-351	para	_	_	_	
+1-64	352-354	as	_	_	_	
+1-65	355-359	suas	_	_	_	
+1-66	360-372	necessidades	_	_	_	
+1-67	372-373	.	_	_	_	

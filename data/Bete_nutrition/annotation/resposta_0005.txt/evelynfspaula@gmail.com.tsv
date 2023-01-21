@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=A Stevia é um adoçante isento de carboidratos digeríveis em sua composição, e por esse motivo, não aumenta a glicemia (concentração de açúcar no sangue). De qualquer maneira, qualquer adoçante deve ser utilizado com moderação, uma vez que há um limite diário considerado seguro para cada tipo. Uma dieta equilibrada em nutrientes e calorias é essencial para o controle do diabetes.
+1-1	0-1	A	_	_	_	
+1-2	2-8	Stevia	Food	_	_	
+1-3	9-10	é	_	_	_	
+1-4	11-13	um	_	_	_	
+1-5	14-22	adoçante	Food	_	_	
+1-6	23-29	isento	_	_	_	
+1-7	30-32	de	_	_	_	
+1-8	33-45	carboidratos	Food[1]	_	_	
+1-9	46-56	digeríveis	Food[1]	_	_	
+1-10	57-59	em	_	_	_	
+1-11	60-63	sua	_	_	_	
+1-12	64-74	composição	_	_	_	
+1-13	74-75	,	_	_	_	
+1-14	76-77	e	_	_	_	
+1-15	78-81	por	_	_	_	
+1-16	82-86	esse	_	_	_	
+1-17	87-93	motivo	_	_	_	
+1-18	93-94	,	_	_	_	
+1-19	95-98	não	GlucoseValue[2]	has|has	1-2[0_2]|1-5[0_2]	
+1-20	99-106	aumenta	GlucoseValue[2]	_	_	
+1-21	107-108	a	GlucoseValue[2]	_	_	
+1-22	109-117	glicemia	GlucoseValue[2]	_	_	
+1-23	118-119	(	_	_	_	
+1-24	119-131	concentração	_	_	_	
+1-25	132-134	de	_	_	_	
+1-26	135-141	açúcar	_	_	_	
+1-27	142-144	no	_	_	_	
+1-28	145-151	sangue	_	_	_	
+1-29	151-152	)	_	_	_	
+1-30	152-153	.	_	_	_	
+1-31	154-156	De	_	_	_	
+1-32	157-165	qualquer	_	_	_	
+1-33	166-173	maneira	_	_	_	
+1-34	173-174	,	_	_	_	
+1-35	175-183	qualquer	_	_	_	
+1-36	184-192	adoçante	_	_	_	
+1-37	193-197	deve	_	_	_	
+1-38	198-201	ser	_	_	_	
+1-39	202-211	utilizado	_	_	_	
+1-40	212-215	com	_	_	_	
+1-41	216-225	moderação	Dose	has|has	1-2|1-5	
+1-42	225-226	,	_	_	_	
+1-43	227-230	uma	_	_	_	
+1-44	231-234	vez	_	_	_	
+1-45	235-238	que	_	_	_	
+1-46	239-241	há	_	_	_	
+1-47	242-244	um	_	_	_	
+1-48	245-251	limite	_	_	_	
+1-49	252-258	diário	_	_	_	
+1-50	259-270	considerado	_	_	_	
+1-51	271-277	seguro	_	_	_	
+1-52	278-282	para	_	_	_	
+1-53	283-287	cada	_	_	_	
+1-54	288-292	tipo	_	_	_	
+1-55	292-293	.	_	_	_	
+1-56	294-297	Uma	_	_	_	
+1-57	298-303	dieta	_	_	_	
+1-58	304-315	equilibrada	_	_	_	
+1-59	316-318	em	_	_	_	
+1-60	319-329	nutrientes	_	_	_	
+1-61	330-331	e	_	_	_	
+1-62	332-340	calorias	_	_	_	
+1-63	341-342	é	_	_	_	
+1-64	343-352	essencial	_	_	_	
+1-65	353-357	para	_	_	_	
+1-66	358-359	o	_	_	_	
+1-67	360-368	controle	_	_	_	
+1-68	369-371	do	_	_	_	
+1-69	372-380	diabetes	_	_	_	
+1-70	380-381	.	_	_	_	

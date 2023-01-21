@@ -1,0 +1,61 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Pessoas com diabetes podem desenvolver problemas dentários e gengivais se a glicose no sangue permanecer alta. A glicose alta no sangue pode piorar os problemas dentários e de gengiva. Por isso é importante se consultar frequentemente com um médico e com um dentista e manter baixos os níveis de glicose no sangue.
+1-1	0-7	Pessoas	_	_	_	
+1-2	8-11	com	_	_	_	
+1-3	12-20	diabetes	_	_	_	
+1-4	21-26	podem	_	_	_	
+1-5	27-38	desenvolver	_	_	_	
+1-6	39-48	problemas	Complication[1]	causes	1-19[2_1]	
+1-7	49-58	dentários	Complication[1]	_	_	
+1-8	59-60	e	_	_	_	
+1-9	61-70	gengivais	Complication	causes	1-19[2_0]	
+1-10	71-73	se	_	_	_	
+1-11	74-75	a	_	_	_	
+1-12	76-83	glicose	_	_	_	
+1-13	84-86	no	_	_	_	
+1-14	87-93	sangue	_	_	_	
+1-15	94-104	permanecer	_	_	_	
+1-16	105-109	alta	_	_	_	
+1-17	109-110	.	_	_	_	
+1-18	111-112	A	_	_	_	
+1-19	113-120	glicose	GlucoseValue[2]	_	_	
+1-20	121-125	alta	GlucoseValue[2]	_	_	
+1-21	126-128	no	GlucoseValue[2]	_	_	
+1-22	129-135	sangue	GlucoseValue[2]	_	_	
+1-23	136-140	pode	_	_	_	
+1-24	141-147	piorar	_	_	_	
+1-25	148-150	os	_	_	_	
+1-26	151-160	problemas	Complication[3]	complicates	1-19[2_3]	
+1-27	161-170	dentários	Complication[3]	_	_	
+1-28	171-172	e	_	_	_	
+1-29	173-175	de	Complication[4]	complicates	1-19[2_4]	
+1-30	176-183	gengiva	Complication[4]	_	_	
+1-31	183-184	.	_	_	_	
+1-32	185-188	Por	_	_	_	
+1-33	189-193	isso	_	_	_	
+1-34	194-195	é	_	_	_	
+1-35	196-206	importante	_	_	_	
+1-36	207-209	se	_	_	_	
+1-37	210-219	consultar	_	_	_	
+1-38	220-234	frequentemente	_	_	_	
+1-39	235-238	com	_	_	_	
+1-40	239-241	um	_	_	_	
+1-41	242-248	médico	_	_	_	
+1-42	249-250	e	_	_	_	
+1-43	251-254	com	_	_	_	
+1-44	255-257	um	_	_	_	
+1-45	258-266	dentista	_	_	_	
+1-46	267-268	e	_	_	_	
+1-47	269-275	manter	_	_	_	
+1-48	276-282	baixos	_	_	_	
+1-49	283-285	os	_	_	_	
+1-50	286-292	níveis	_	_	_	
+1-51	293-295	de	_	_	_	
+1-52	296-303	glicose	GlucoseValue[5]	_	_	
+1-53	304-306	no	GlucoseValue[5]	_	_	
+1-54	307-313	sangue	GlucoseValue[5]	_	_	
+1-55	313-314	.	_	_	_	

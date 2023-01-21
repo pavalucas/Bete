@@ -1,0 +1,100 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Para diminuir as dores nas pontas dos dedos, é importante:
+1-1	0-4	Para	_	_	_	
+1-2	5-13	diminuir	_	_	_	
+1-3	14-16	as	_	_	_	
+1-4	17-22	dores	Symptom[1]	treats|treats|treats|treats	2-1[2_1]|3-1[3_1]|4-2[4_1]|5-6[5_1]	
+1-5	23-26	nas	Symptom[1]	_	_	
+1-6	27-33	pontas	Symptom[1]	_	_	
+1-7	34-37	dos	Symptom[1]	_	_	
+1-8	38-43	dedos	Symptom[1]	_	_	
+1-9	43-44	,	_	_	_	
+1-10	45-46	é	_	_	_	
+1-11	47-57	importante	_	_	_	
+1-12	57-58	:	_	_	_	
+
+#Text=Lavar bem as mãos com água e sabão e enxugar com toalha limpa ou algodão seco.
+2-1	61-66	Lavar	NonMedicalTreatment[2]	_	_	
+2-2	67-70	bem	NonMedicalTreatment[2]	_	_	
+2-3	71-73	as	NonMedicalTreatment[2]	_	_	
+2-4	74-78	mãos	NonMedicalTreatment[2]	_	_	
+2-5	79-82	com	NonMedicalTreatment[2]	_	_	
+2-6	83-87	água	NonMedicalTreatment[2]	_	_	
+2-7	88-89	e	NonMedicalTreatment[2]	_	_	
+2-8	90-95	sabão	NonMedicalTreatment[2]	_	_	
+2-9	96-97	e	NonMedicalTreatment[2]	_	_	
+2-10	98-105	enxugar	NonMedicalTreatment[2]	_	_	
+2-11	106-109	com	NonMedicalTreatment[2]	_	_	
+2-12	110-116	toalha	NonMedicalTreatment[2]	_	_	
+2-13	117-122	limpa	NonMedicalTreatment[2]	_	_	
+2-14	123-125	ou	NonMedicalTreatment[2]	_	_	
+2-15	126-133	algodão	NonMedicalTreatment[2]	_	_	
+2-16	134-138	seco	NonMedicalTreatment[2]	_	_	
+2-17	138-139	.	_	_	_	
+
+#Text=Deixar a mão pendente (com os dedos apontando para baixo), para que saia uma gota de sangue maior.
+3-1	142-148	Deixar	NonMedicalTreatment[3]	_	_	
+3-2	149-150	a	NonMedicalTreatment[3]	_	_	
+3-3	151-154	mão	NonMedicalTreatment[3]	_	_	
+3-4	155-163	pendente	NonMedicalTreatment[3]	_	_	
+3-5	164-165	(	NonMedicalTreatment[3]	_	_	
+3-6	165-168	com	NonMedicalTreatment[3]	_	_	
+3-7	169-171	os	NonMedicalTreatment[3]	_	_	
+3-8	172-177	dedos	NonMedicalTreatment[3]	_	_	
+3-9	178-187	apontando	NonMedicalTreatment[3]	_	_	
+3-10	188-192	para	NonMedicalTreatment[3]	_	_	
+3-11	193-198	baixo	NonMedicalTreatment[3]	_	_	
+3-12	198-199	)	NonMedicalTreatment[3]	_	_	
+3-13	199-200	,	_	_	_	
+3-14	201-205	para	_	_	_	
+3-15	206-209	que	_	_	_	
+3-16	210-214	saia	_	_	_	
+3-17	215-218	uma	_	_	_	
+3-18	219-223	gota	_	_	_	
+3-19	224-226	de	_	_	_	
+3-20	227-233	sangue	_	_	_	
+3-21	234-239	maior	_	_	_	
+3-22	239-240	.	_	_	_	
+
+#Text=Sempre variar o dedo que será picado.
+4-1	243-249	Sempre	Set	has	4-2[4_0]	
+4-2	250-256	variar	NonMedicalTreatment[4]	_	_	
+4-3	257-258	o	NonMedicalTreatment[4]	_	_	
+4-4	259-263	dedo	NonMedicalTreatment[4]	_	_	
+4-5	264-267	que	NonMedicalTreatment[4]	_	_	
+4-6	268-272	será	NonMedicalTreatment[4]	_	_	
+4-7	273-279	picado	NonMedicalTreatment[4]	_	_	
+4-8	279-280	.	_	_	_	
+
+#Text=Por fim, é Importante lembrar que os picadores são de uso individual, não podem ser usados em diferentes pessoas, mesmo trocando as agulhas!
+5-1	282-285	Por	_	_	_	
+5-2	286-289	fim	_	_	_	
+5-3	289-290	,	_	_	_	
+5-4	291-292	é	_	_	_	
+5-5	293-303	Importante	_	_	_	
+5-6	304-311	lembrar	NonMedicalTreatment[5]	_	_	
+5-7	312-315	que	NonMedicalTreatment[5]	_	_	
+5-8	316-318	os	NonMedicalTreatment[5]	_	_	
+5-9	319-328	picadores	NonMedicalTreatment[5]	_	_	
+5-10	329-332	são	NonMedicalTreatment[5]	_	_	
+5-11	333-335	de	NonMedicalTreatment[5]	_	_	
+5-12	336-339	uso	NonMedicalTreatment[5]	_	_	
+5-13	340-350	individual	NonMedicalTreatment[5]	_	_	
+5-14	350-351	,	_	_	_	
+5-15	352-355	não	_	_	_	
+5-16	356-361	podem	_	_	_	
+5-17	362-365	ser	_	_	_	
+5-18	366-372	usados	_	_	_	
+5-19	373-375	em	_	_	_	
+5-20	376-386	diferentes	_	_	_	
+5-21	387-394	pessoas	_	_	_	
+5-22	394-395	,	_	_	_	
+5-23	396-401	mesmo	_	_	_	
+5-24	402-410	trocando	_	_	_	
+5-25	411-413	as	_	_	_	
+5-26	414-421	agulhas	_	_	_	
+5-27	421-422	!	_	_	_	

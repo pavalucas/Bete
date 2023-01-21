@@ -1,0 +1,52 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Esses medicamentos agem de forma diferente no corpo, mas ambos servem para controlar o diabetes. Agora, é importante ressaltar que em hipótese alguma você deve trocar seus remédios por conta própria. Qualquer alteração na prescrição deve ser feita pelo seu médico!
+1-1	0-5	Esses	Medication[1]	_	_	
+1-2	6-18	medicamentos	Medication[1]	_	_	
+1-3	19-23	agem	_	_	_	
+1-4	24-26	de	_	_	_	
+1-5	27-32	forma	_	_	_	
+1-6	33-42	diferente	_	_	_	
+1-7	43-45	no	_	_	_	
+1-8	46-51	corpo	_	_	_	
+1-9	51-52	,	_	_	_	
+1-10	53-56	mas	_	_	_	
+1-11	57-62	ambos	_	_	_	
+1-12	63-69	servem	_	_	_	
+1-13	70-74	para	_	_	_	
+1-14	75-84	controlar	_	_	_	
+1-15	85-86	o	_	_	_	
+1-16	87-95	diabetes	Complication	treats	1-1[1_0]	
+1-17	95-96	.	_	_	_	
+1-18	97-102	Agora	_	_	_	
+1-19	102-103	,	_	_	_	
+1-20	104-105	é	_	_	_	
+1-21	106-116	importante	_	_	_	
+1-22	117-126	ressaltar	_	_	_	
+1-23	127-130	que	_	_	_	
+1-24	131-133	em	_	_	_	
+1-25	134-142	hipótese	_	_	_	
+1-26	143-149	alguma	_	_	_	
+1-27	150-154	você	_	_	_	
+1-28	155-159	deve	_	_	_	
+1-29	160-166	trocar	_	_	_	
+1-30	167-171	seus	_	_	_	
+1-31	172-180	remédios	_	_	_	
+1-32	181-184	por	_	_	_	
+1-33	185-190	conta	_	_	_	
+1-34	191-198	própria	_	_	_	
+1-35	198-199	.	_	_	_	
+1-36	200-208	Qualquer	_	_	_	
+1-37	209-218	alteração	_	_	_	
+1-38	219-221	na	_	_	_	
+1-39	222-232	prescrição	_	_	_	
+1-40	233-237	deve	_	_	_	
+1-41	238-241	ser	_	_	_	
+1-42	242-247	feita	_	_	_	
+1-43	248-252	pelo	_	_	_	
+1-44	253-256	seu	_	_	_	
+1-45	257-263	médico	_	_	_	
+1-46	263-264	!	_	_	_	

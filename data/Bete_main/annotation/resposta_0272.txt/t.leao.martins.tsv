@@ -1,0 +1,68 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Se você estiver bem controlado do seu diabetes, então o risco de fazer uma tatuagem são os mesmos de qualquer outra pessoa. Porém, pessoas com diabetes descontrolado e/ou uma glicemia que varie muito, têm uma cicatrização prejudicada. Por isso, o ideal é perguntar ao seu médico se você pode ou não fazer tatuagens.
+1-1	0-2	Se	_	_	_	
+1-2	3-7	você	_	_	_	
+1-3	8-15	estiver	_	_	_	
+1-4	16-19	bem	_	_	_	
+1-5	20-30	controlado	_	_	_	
+1-6	31-33	do	_	_	_	
+1-7	34-37	seu	_	_	_	
+1-8	38-46	diabetes	_	_	_	
+1-9	46-47	,	_	_	_	
+1-10	48-53	então	_	_	_	
+1-11	54-55	o	_	_	_	
+1-12	56-61	risco	_	_	_	
+1-13	62-64	de	_	_	_	
+1-14	65-70	fazer	_	_	_	
+1-15	71-74	uma	_	_	_	
+1-16	75-83	tatuagem	_	_	_	
+1-17	84-87	são	_	_	_	
+1-18	88-90	os	_	_	_	
+1-19	91-97	mesmos	_	_	_	
+1-20	98-100	de	_	_	_	
+1-21	101-109	qualquer	_	_	_	
+1-22	110-115	outra	_	_	_	
+1-23	116-122	pessoa	_	_	_	
+1-24	122-123	.	_	_	_	
+1-25	124-129	Porém	_	_	_	
+1-26	129-130	,	_	_	_	
+1-27	131-138	pessoas	_	_	_	
+1-28	139-142	com	_	_	_	
+1-29	143-151	diabetes	_	_	_	
+1-30	152-165	descontrolado	_	_	_	
+1-31	166-167	e	_	_	_	
+1-32	167-168	/	_	_	_	
+1-33	168-170	ou	_	_	_	
+1-34	171-174	uma	_	_	_	
+1-35	175-183	glicemia	GlucoseValue	_	_	
+1-36	184-187	que	_	_	_	
+1-37	188-193	varie	_	_	_	
+1-38	194-199	muito	_	_	_	
+1-39	199-200	,	_	_	_	
+1-40	201-204	têm	_	_	_	
+1-41	205-208	uma	_	_	_	
+1-42	209-221	cicatrização	Symptom[1]	causes	1-35[0_1]	
+1-43	222-233	prejudicada	Symptom[1]	_	_	
+1-44	233-234	.	_	_	_	
+1-45	235-238	Por	_	_	_	
+1-46	239-243	isso	_	_	_	
+1-47	243-244	,	_	_	_	
+1-48	245-246	o	_	_	_	
+1-49	247-252	ideal	_	_	_	
+1-50	253-254	é	_	_	_	
+1-51	255-264	perguntar	_	_	_	
+1-52	265-267	ao	_	_	_	
+1-53	268-271	seu	_	_	_	
+1-54	272-278	médico	_	_	_	
+1-55	279-281	se	_	_	_	
+1-56	282-286	você	_	_	_	
+1-57	287-291	pode	_	_	_	
+1-58	292-294	ou	_	_	_	
+1-59	295-298	não	_	_	_	
+1-60	299-304	fazer	_	_	_	
+1-61	305-314	tatuagens	_	_	_	
+1-62	314-315	.	_	_	_	

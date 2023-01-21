@@ -18,7 +18,7 @@ from trainer import Trainer
 # General constants
 NUM_EXPERIMENTS = 1
 OUTPUT_PATH = 'output_files/'
-DATA_PATH = '../../data/Dia-Bete/all_annotated_dataset_2022_01_07.csv'
+DATA_PATH = '../../data/curated_dataset_2022_01_07.csv'
 
 # Linear Layer + CRF constants
 NUM_EPOCHS = 50

@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=A pessoa com diabetes pode sim comer frutas, mas deve ter em mente que esse alimento contêm frutose, que é um açúcar natural, e por isso, o seu consumo pode elevar a glicemia. Por isso, é necessário que se controle a quantidade a ser consumida para obedecer a cota calórica e de carboidratos diária.
+1-1	0-1	A	_	_	_	
+1-2	2-8	pessoa	_	_	_	
+1-3	9-12	com	_	_	_	
+1-4	13-21	diabetes	_	_	_	
+1-5	22-26	pode	_	_	_	
+1-6	27-30	sim	_	_	_	
+1-7	31-36	comer	_	_	_	
+1-8	37-43	frutas	Food	_	_	
+1-9	43-44	,	_	_	_	
+1-10	45-48	mas	_	_	_	
+1-11	49-53	deve	_	_	_	
+1-12	54-57	ter	_	_	_	
+1-13	58-60	em	_	_	_	
+1-14	61-66	mente	_	_	_	
+1-15	67-70	que	_	_	_	
+1-16	71-75	esse	_	_	_	
+1-17	76-84	alimento	_	_	_	
+1-18	85-91	contêm	_	_	_	
+1-19	92-99	frutose	Food	has	1-8	
+1-20	99-100	,	_	_	_	
+1-21	101-104	que	_	_	_	
+1-22	105-106	é	_	_	_	
+1-23	107-109	um	_	_	_	
+1-24	110-116	açúcar	_	_	_	
+1-25	117-124	natural	_	_	_	
+1-26	124-125	,	_	_	_	
+1-27	126-127	e	_	_	_	
+1-28	128-131	por	_	_	_	
+1-29	132-136	isso	_	_	_	
+1-30	136-137	,	_	_	_	
+1-31	138-139	o	_	_	_	
+1-32	140-143	seu	_	_	_	
+1-33	144-151	consumo	_	_	_	
+1-34	152-156	pode	_	_	_	
+1-35	157-163	elevar	GlucoseValue[1]	complicates|prevents	1-19[0_1]|1-46[2_1]	
+1-36	164-165	a	GlucoseValue[1]	_	_	
+1-37	166-174	glicemia	GlucoseValue[1]	_	_	
+1-38	174-175	.	_	_	_	
+1-39	176-179	Por	_	_	_	
+1-40	180-184	isso	_	_	_	
+1-41	184-185	,	_	_	_	
+1-42	186-187	é	_	_	_	
+1-43	188-198	necessário	_	_	_	
+1-44	199-202	que	_	_	_	
+1-45	203-205	se	_	_	_	
+1-46	206-214	controle	NonMedicalTreatment[2]	_	_	
+1-47	215-216	a	NonMedicalTreatment[2]	_	_	
+1-48	217-227	quantidade	NonMedicalTreatment[2]	_	_	
+1-49	228-229	a	_	_	_	
+1-50	230-233	ser	_	_	_	
+1-51	234-243	consumida	_	_	_	
+1-52	244-248	para	_	_	_	
+1-53	249-257	obedecer	_	_	_	
+1-54	258-259	a	_	_	_	
+1-55	260-264	cota	_	_	_	
+1-56	265-273	calórica	_	_	_	
+1-57	274-275	e	_	_	_	
+1-58	276-278	de	_	_	_	
+1-59	279-291	carboidratos	_	_	_	
+1-60	292-298	diária	_	_	_	
+1-61	298-299	.	_	_	_	

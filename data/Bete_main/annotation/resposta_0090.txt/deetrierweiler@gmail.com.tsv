@@ -1,0 +1,77 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Quando o diabetes está descontrolado, a glicemia (açúcar no sangue) costuma ficar mais alta, o que pode aumentar a desidratação (perda de água) no corpo. Essa situação costuma causar a sensação de boca seca, portanto se estiver com esse sintoma, procure seu médico para avaliar se o tratamento está adequado. Para qualquer pessoa também é sempre importante beber muita água!
+1-1	0-6	Quando	_	_	_	
+1-2	7-8	o	_	_	_	
+1-3	9-17	diabetes	DiabetesType	_	_	
+1-4	18-22	está	_	_	_	
+1-5	23-36	descontrolado	_	_	_	
+1-6	36-37	,	_	_	_	
+1-7	38-39	a	_	_	_	
+1-8	40-48	glicemia	GlucoseValue[1]	cause	1-3[0_1]	
+1-9	49-50	(	GlucoseValue[1]	_	_	
+1-10	50-56	açúcar	GlucoseValue[1]	_	_	
+1-11	57-59	no	GlucoseValue[1]	_	_	
+1-12	60-66	sangue	GlucoseValue[1]	_	_	
+1-13	66-67	)	GlucoseValue[1]	_	_	
+1-14	68-75	costuma	GlucoseValue[1]	_	_	
+1-15	76-81	ficar	GlucoseValue[1]	_	_	
+1-16	82-86	mais	GlucoseValue[1]	_	_	
+1-17	87-91	alta	GlucoseValue[1]	_	_	
+1-18	91-92	,	_	_	_	
+1-19	93-94	o	_	_	_	
+1-20	95-98	que	_	_	_	
+1-21	99-103	pode	_	_	_	
+1-22	104-112	aumentar	_	_	_	
+1-23	113-114	a	_	_	_	
+1-24	115-127	desidratação	Symptom	has|treats	1-8[1_0]|1-68[3_0]	
+1-25	128-129	(	_	_	_	
+1-26	129-134	perda	_	_	_	
+1-27	135-137	de	_	_	_	
+1-28	138-142	água	_	_	_	
+1-29	142-143	)	_	_	_	
+1-30	144-146	no	_	_	_	
+1-31	147-152	corpo	_	_	_	
+1-32	152-153	.	_	_	_	
+1-33	154-158	Essa	_	_	_	
+1-34	159-167	situação	_	_	_	
+1-35	168-175	costuma	_	_	_	
+1-36	176-182	causar	_	_	_	
+1-37	183-184	a	_	_	_	
+1-38	185-193	sensação	_	_	_	
+1-39	194-196	de	_	_	_	
+1-40	197-201	boca	Symptom[2]	has	1-8[1_2]	
+1-41	202-206	seca	Symptom[2]	_	_	
+1-42	206-207	,	_	_	_	
+1-43	208-216	portanto	_	_	_	
+1-44	217-219	se	_	_	_	
+1-45	220-227	estiver	_	_	_	
+1-46	228-231	com	_	_	_	
+1-47	232-236	esse	_	_	_	
+1-48	237-244	sintoma	_	_	_	
+1-49	244-245	,	_	_	_	
+1-50	246-253	procure	_	_	_	
+1-51	254-257	seu	_	_	_	
+1-52	258-264	médico	_	_	_	
+1-53	265-269	para	_	_	_	
+1-54	270-277	avaliar	_	_	_	
+1-55	278-280	se	_	_	_	
+1-56	281-282	o	_	_	_	
+1-57	283-293	tratamento	_	_	_	
+1-58	294-298	está	_	_	_	
+1-59	299-307	adequado	_	_	_	
+1-60	307-308	.	_	_	_	
+1-61	309-313	Para	_	_	_	
+1-62	314-322	qualquer	_	_	_	
+1-63	323-329	pessoa	_	_	_	
+1-64	330-336	também	_	_	_	
+1-65	337-338	é	_	_	_	
+1-66	339-345	sempre	_	_	_	
+1-67	346-356	importante	_	_	_	
+1-68	357-362	beber	NonMedicalTreatment[3]	_	_	
+1-69	363-368	muita	NonMedicalTreatment[3]	_	_	
+1-70	369-373	água	NonMedicalTreatment[3]	_	_	
+1-71	373-374	!	_	_	_	

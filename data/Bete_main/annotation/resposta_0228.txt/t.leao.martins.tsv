@@ -1,0 +1,76 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Os níveis de açúcar no sangue são monitorados através de dois parâmetros: a porcentagem de hemoglobina glicada e o valor da glicemia capilar. Alguns valores de referência foram estabelecidos por meio de extensas pesquisas na área, mas é importante ter em mente que as metas de tratamento muitas vezes podem variar de pessoa a pessoa de acordo com a avaliação e a decisão do médico endocrinologista.
+1-1	0-2	Os	_	_	_	
+1-2	3-9	níveis	_	_	_	
+1-3	10-12	de	_	_	_	
+1-4	13-19	açúcar	GlucoseValue[1]	diagnoses|diagnoses	1-17[2_1]|1-23[3_1]	
+1-5	20-22	no	GlucoseValue[1]	_	_	
+1-6	23-29	sangue	GlucoseValue[1]	_	_	
+1-7	30-33	são	_	_	_	
+1-8	34-45	monitorados	_	_	_	
+1-9	46-53	através	_	_	_	
+1-10	54-56	de	_	_	_	
+1-11	57-61	dois	_	_	_	
+1-12	62-72	parâmetros	_	_	_	
+1-13	72-73	:	_	_	_	
+1-14	74-75	a	_	_	_	
+1-15	76-87	porcentagem	_	_	_	
+1-16	88-90	de	_	_	_	
+1-17	91-102	hemoglobina	Test[2]	_	_	
+1-18	103-110	glicada	Test[2]	_	_	
+1-19	111-112	e	_	_	_	
+1-20	113-114	o	_	_	_	
+1-21	115-120	valor	_	_	_	
+1-22	121-123	da	_	_	_	
+1-23	124-132	glicemia	Test[3]	_	_	
+1-24	133-140	capilar	Test[3]	_	_	
+1-25	140-141	.	_	_	_	
+1-26	142-148	Alguns	_	_	_	
+1-27	149-156	valores	_	_	_	
+1-28	157-159	de	_	_	_	
+1-29	160-170	referência	_	_	_	
+1-30	171-176	foram	_	_	_	
+1-31	177-190	estabelecidos	_	_	_	
+1-32	191-194	por	_	_	_	
+1-33	195-199	meio	_	_	_	
+1-34	200-202	de	_	_	_	
+1-35	203-211	extensas	_	_	_	
+1-36	212-221	pesquisas	_	_	_	
+1-37	222-224	na	_	_	_	
+1-38	225-229	área	_	_	_	
+1-39	229-230	,	_	_	_	
+1-40	231-234	mas	_	_	_	
+1-41	235-236	é	_	_	_	
+1-42	237-247	importante	_	_	_	
+1-43	248-251	ter	_	_	_	
+1-44	252-254	em	_	_	_	
+1-45	255-260	mente	_	_	_	
+1-46	261-264	que	_	_	_	
+1-47	265-267	as	_	_	_	
+1-48	268-273	metas	_	_	_	
+1-49	274-276	de	_	_	_	
+1-50	277-287	tratamento	_	_	_	
+1-51	288-294	muitas	_	_	_	
+1-52	295-300	vezes	_	_	_	
+1-53	301-306	podem	_	_	_	
+1-54	307-313	variar	_	_	_	
+1-55	314-316	de	_	_	_	
+1-56	317-323	pessoa	_	_	_	
+1-57	324-325	a	_	_	_	
+1-58	326-332	pessoa	_	_	_	
+1-59	333-335	de	_	_	_	
+1-60	336-342	acordo	_	_	_	
+1-61	343-346	com	_	_	_	
+1-62	347-348	a	_	_	_	
+1-63	349-358	avaliação	_	_	_	
+1-64	359-360	e	_	_	_	
+1-65	361-362	a	_	_	_	
+1-66	363-370	decisão	_	_	_	
+1-67	371-373	do	_	_	_	
+1-68	374-380	médico	_	_	_	
+1-69	381-397	endocrinologista	_	_	_	
+1-70	397-398	.	_	_	_	

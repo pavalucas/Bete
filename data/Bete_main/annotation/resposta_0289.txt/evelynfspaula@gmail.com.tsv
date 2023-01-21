@@ -1,0 +1,67 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=A pessoa com diabetes deve ter sempre uma grande atenção com a saúde dos pés. Machucados podem ocorrer sem serem percebidos e as feridas demoram mais para sarar. Dependendo da gravidade da infecção, pode ser necessário o tratamento com antibióticos orais ou intravenosos. Caso contrário, uma infecção mal tratada pode levar à amputação do membro.
+1-1	0-1	A	_	_	_	
+1-2	2-8	pessoa	_	_	_	
+1-3	9-12	com	_	_	_	
+1-4	13-21	diabetes	_	_	_	
+1-5	22-26	deve	_	_	_	
+1-6	27-30	ter	_	_	_	
+1-7	31-37	sempre	_	_	_	
+1-8	38-41	uma	_	_	_	
+1-9	42-48	grande	_	_	_	
+1-10	49-56	atenção	_	_	_	
+1-11	57-60	com	_	_	_	
+1-12	61-62	a	_	_	_	
+1-13	63-68	saúde	_	_	_	
+1-14	69-72	dos	_	_	_	
+1-15	73-76	pés	_	_	_	
+1-16	76-77	.	_	_	_	
+1-17	78-88	Machucados	_	_	_	
+1-18	89-94	podem	_	_	_	
+1-19	95-102	ocorrer	_	_	_	
+1-20	103-106	sem	_	_	_	
+1-21	107-112	serem	_	_	_	
+1-22	113-123	percebidos	_	_	_	
+1-23	124-125	e	_	_	_	
+1-24	126-128	as	_	_	_	
+1-25	129-136	feridas	Complication[1]	_	_	
+1-26	137-144	demoram	Complication[1]	_	_	
+1-27	145-149	mais	Complication[1]	_	_	
+1-28	150-154	para	Complication[1]	_	_	
+1-29	155-160	sarar	Complication[1]	_	_	
+1-30	160-161	.	_	_	_	
+1-31	162-172	Dependendo	_	_	_	
+1-32	173-175	da	_	_	_	
+1-33	176-185	gravidade	_	_	_	
+1-34	186-188	da	_	_	_	
+1-35	189-197	infecção	_	_	_	
+1-36	197-198	,	_	_	_	
+1-37	199-203	pode	_	_	_	
+1-38	204-207	ser	_	_	_	
+1-39	208-218	necessário	_	_	_	
+1-40	219-220	o	_	_	_	
+1-41	221-231	tratamento	_	_	_	
+1-42	232-235	com	_	_	_	
+1-43	236-248	antibióticos	_	_	_	
+1-44	249-254	orais	_	_	_	
+1-45	255-257	ou	_	_	_	
+1-46	258-270	intravenosos	_	_	_	
+1-47	270-271	.	_	_	_	
+1-48	272-276	Caso	_	_	_	
+1-49	277-286	contrário	_	_	_	
+1-50	286-287	,	_	_	_	
+1-51	288-291	uma	_	_	_	
+1-52	292-300	infecção	Complication[2]	_	_	
+1-53	301-304	mal	Complication[2]	_	_	
+1-54	305-312	tratada	Complication[2]	_	_	
+1-55	313-317	pode	_	_	_	
+1-56	318-323	levar	_	_	_	
+1-57	324-325	à	_	_	_	
+1-58	326-335	amputação	Complication[3]	causes	1-52[2_3]	
+1-59	336-338	do	Complication[3]	_	_	
+1-60	339-345	membro	Complication[3]	_	_	
+1-61	345-346	.	_	_	_	

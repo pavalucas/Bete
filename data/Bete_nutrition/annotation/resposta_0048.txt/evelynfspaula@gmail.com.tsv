@@ -1,0 +1,75 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Podem sim. O eritritol é um adoçante, ou seja, não possui glicose e com isso não eleva a glicemia. Em relação ao fermente químico, não há nenhuma contraindicação. Para uma orientação mais específica o ideal é que você se consulte com um nutricionista (que estão disponíveis gratuitamente no SUS) pois ele poderá montar uma dieta ideal para as suas necessidades.
+1-1	0-5	Podem	_	_	_	
+1-2	6-9	sim	_	_	_	
+1-3	9-10	.	_	_	_	
+1-4	11-12	O	_	_	_	
+1-5	13-22	eritritol	Food	_	_	
+1-6	23-24	é	_	_	_	
+1-7	25-27	um	_	_	_	
+1-8	28-36	adoçante	Food	_	_	
+1-9	36-37	,	_	_	_	
+1-10	38-40	ou	_	_	_	
+1-11	41-45	seja	_	_	_	
+1-12	45-46	,	_	_	_	
+1-13	47-50	não	GlucoseValue[1]	has|has	1-5[0_1]|1-8[0_1]	
+1-14	51-57	possui	GlucoseValue[1]	_	_	
+1-15	58-65	glicose	GlucoseValue[1]	_	_	
+1-16	66-67	e	_	_	_	
+1-17	68-71	com	_	_	_	
+1-18	72-76	isso	_	_	_	
+1-19	77-80	não	GlucoseValue[2]	has|has	1-5[0_2]|1-8[0_2]	
+1-20	81-86	eleva	GlucoseValue[2]	_	_	
+1-21	87-88	a	GlucoseValue[2]	_	_	
+1-22	89-97	glicemia	GlucoseValue[2]	_	_	
+1-23	97-98	.	_	_	_	
+1-24	99-101	Em	_	_	_	
+1-25	102-109	relação	_	_	_	
+1-26	110-112	ao	_	_	_	
+1-27	113-121	fermente	Food[3]	_	_	
+1-28	122-129	químico	Food[3]	_	_	
+1-29	129-130	,	_	_	_	
+1-30	131-134	não	_	_	_	
+1-31	135-137	há	_	_	_	
+1-32	138-145	nenhuma	_	_	_	
+1-33	146-161	contraindicação	_	_	_	
+1-34	161-162	.	_	_	_	
+1-35	163-167	Para	_	_	_	
+1-36	168-171	uma	_	_	_	
+1-37	172-182	orientação	_	_	_	
+1-38	183-187	mais	_	_	_	
+1-39	188-198	específica	_	_	_	
+1-40	199-200	o	_	_	_	
+1-41	201-206	ideal	_	_	_	
+1-42	207-208	é	_	_	_	
+1-43	209-212	que	_	_	_	
+1-44	213-217	você	_	_	_	
+1-45	218-220	se	_	_	_	
+1-46	221-229	consulte	_	_	_	
+1-47	230-233	com	_	_	_	
+1-48	234-236	um	_	_	_	
+1-49	237-250	nutricionista	_	_	_	
+1-50	251-252	(	_	_	_	
+1-51	252-255	que	_	_	_	
+1-52	256-261	estão	_	_	_	
+1-53	262-273	disponíveis	_	_	_	
+1-54	274-287	gratuitamente	_	_	_	
+1-55	288-290	no	_	_	_	
+1-56	291-294	SUS	_	_	_	
+1-57	294-295	)	_	_	_	
+1-58	296-300	pois	_	_	_	
+1-59	301-304	ele	_	_	_	
+1-60	305-311	poderá	_	_	_	
+1-61	312-318	montar	_	_	_	
+1-62	319-322	uma	_	_	_	
+1-63	323-328	dieta	_	_	_	
+1-64	329-334	ideal	_	_	_	
+1-65	335-339	para	_	_	_	
+1-66	340-342	as	_	_	_	
+1-67	343-347	suas	_	_	_	
+1-68	348-360	necessidades	_	_	_	
+1-69	360-361	.	_	_	_	

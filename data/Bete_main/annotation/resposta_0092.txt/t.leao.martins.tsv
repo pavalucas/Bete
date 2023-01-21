@@ -1,0 +1,40 @@
+#FORMAT=WebAnno TSV 3.2
+
+
+#Text=O que você está nos contando pode ter muitas causas, então não seria adequado sugerir um tratamento por aqui. Recomendamos que você pocure um médico que avalie a sua situação com mais profundidade.
+1-1	0-1	O	
+1-2	2-5	que	
+1-3	6-10	você	
+1-4	11-15	está	
+1-5	16-19	nos	
+1-6	20-28	contando	
+1-7	29-33	pode	
+1-8	34-37	ter	
+1-9	38-44	muitas	
+1-10	45-51	causas	
+1-11	51-52	,	
+1-12	53-58	então	
+1-13	59-62	não	
+1-14	63-68	seria	
+1-15	69-77	adequado	
+1-16	78-85	sugerir	
+1-17	86-88	um	
+1-18	89-99	tratamento	
+1-19	100-103	por	
+1-20	104-108	aqui	
+1-21	108-109	.	
+1-22	110-122	Recomendamos	
+1-23	123-126	que	
+1-24	127-131	você	
+1-25	132-138	pocure	
+1-26	139-141	um	
+1-27	142-148	médico	
+1-28	149-152	que	
+1-29	153-159	avalie	
+1-30	160-161	a	
+1-31	162-165	sua	
+1-32	166-174	situação	
+1-33	175-178	com	
+1-34	179-183	mais	
+1-35	184-196	profundidade	
+1-36	196-197	.	

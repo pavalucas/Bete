@@ -1,0 +1,69 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Relaes|value
+#T_RL=webanno.custom.Relaes2|value|BT_webanno.custom.Relaes
+
+
+#Text=Quem tem diabetes tem que ter uma dieta balanceada. Se puder seguir uma dieta feita por um nutricionista, melhor ainda! Esses profissionais estão disponíveis gratuitamente para consultas pelo SUS, se você tiver interesse, procure a sua Unidade Básica de Saúde de referência para obter um encaminhamento. Uma vida saudável pode ser alcançada e é muito prazerosa!
+1-1	0-4	Quem	_	_	_	
+1-2	5-8	tem	_	_	_	
+1-3	9-17	diabetes	Complication	treats|treats	1-8[1_0]|1-15[2_0]	
+1-4	18-21	tem	_	_	_	
+1-5	22-25	que	_	_	_	
+1-6	26-29	ter	_	_	_	
+1-7	30-33	uma	_	_	_	
+1-8	34-39	dieta	NonMedicalTreatment[1]	_	_	
+1-9	40-50	balanceada	NonMedicalTreatment[1]	_	_	
+1-10	50-51	.	_	_	_	
+1-11	52-54	Se	_	_	_	
+1-12	55-60	puder	_	_	_	
+1-13	61-67	seguir	_	_	_	
+1-14	68-71	uma	_	_	_	
+1-15	72-77	dieta	*[2]	_	_	
+1-16	78-83	feita	*[2]	_	_	
+1-17	84-87	por	*[2]	_	_	
+1-18	88-90	um	*[2]	_	_	
+1-19	91-104	nutricionista	*[2]	_	_	
+1-20	104-105	,	_	_	_	
+1-21	106-112	melhor	_	_	_	
+1-22	113-118	ainda	_	_	_	
+1-23	118-119	!	_	_	_	
+1-24	120-125	Esses	_	_	_	
+1-25	126-139	profissionais	_	_	_	
+1-26	140-145	estão	_	_	_	
+1-27	146-157	disponíveis	_	_	_	
+1-28	158-171	gratuitamente	_	_	_	
+1-29	172-176	para	_	_	_	
+1-30	177-186	consultas	_	_	_	
+1-31	187-191	pelo	_	_	_	
+1-32	192-195	SUS	_	_	_	
+1-33	195-196	,	_	_	_	
+1-34	197-199	se	_	_	_	
+1-35	200-204	você	_	_	_	
+1-36	205-210	tiver	_	_	_	
+1-37	211-220	interesse	_	_	_	
+1-38	220-221	,	_	_	_	
+1-39	222-229	procure	_	_	_	
+1-40	230-231	a	_	_	_	
+1-41	232-235	sua	_	_	_	
+1-42	236-243	Unidade	_	_	_	
+1-43	244-250	Básica	_	_	_	
+1-44	251-253	de	_	_	_	
+1-45	254-259	Saúde	_	_	_	
+1-46	260-262	de	_	_	_	
+1-47	263-273	referência	_	_	_	
+1-48	274-278	para	_	_	_	
+1-49	279-284	obter	_	_	_	
+1-50	285-287	um	_	_	_	
+1-51	288-302	encaminhamento	_	_	_	
+1-52	302-303	.	_	_	_	
+1-53	304-307	Uma	_	_	_	
+1-54	308-312	vida	_	_	_	
+1-55	313-321	saudável	_	_	_	
+1-56	322-326	pode	_	_	_	
+1-57	327-330	ser	_	_	_	
+1-58	331-340	alcançada	_	_	_	
+1-59	341-342	e	_	_	_	
+1-60	343-344	é	_	_	_	
+1-61	345-350	muito	_	_	_	
+1-62	351-360	prazerosa	_	_	_	
+1-63	360-361	!	_	_	_	
